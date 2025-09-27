@@ -1,0 +1,78 @@
+{
+  "portable_blueprints:recipes/recipes": {
+    "criteria": {
+      "always_unlock": "2025-08-23 00:09:00 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:root": {
+    "criteria": {
+      "always": "2025-08-23 00:09:00 +0000"
+    },
+    "done": true
+  },
+  "thijquint:root": {
+    "criteria": {
+      "tick": "2025-08-23 00:09:00 +0000"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2025-08-23 00:08:59 +0000"
+    },
+    "done": true
+  },
+  "prehistoricfauna:prehistoricfauna/general/root": {
+    "criteria": {
+      "tick": "2025-08-23 00:09:00 +0000"
+    },
+    "done": true
+  },
+  "jurassic_additions:welcome_to_jurassic_additions": {
+    "criteria": {
+      "welcome_to_jurassic_additions_0": "2025-08-23 00:08:59 +0000"
+    },
+    "done": true
+  },
+  "thijquint:anti": {
+    "criteria": {
+      "tick": "2025-08-23 00:09:00 +0000"
+    },
+    "done": true
+  },
+  "vs_eureka:recipes/balloon_color": {
+    "criteria": {
+      "has_red_balloon": "2025-08-23 00:08:59 +0000",
+      "has_black_balloon": "2025-08-23 00:08:59 +0000",
+      "has_lime_balloon": "2025-08-23 00:08:59 +0000",
+      "has_cyan_balloon": "2025-08-23 00:08:59 +0000",
+      "has_light_blue_balloon": "2025-08-23 00:08:59 +0000",
+      "has_gray_balloon": "2025-08-23 00:08:59 +0000",
+      "has_pink_balloon": "2025-08-23 00:08:59 +0000",
+      "has_light_gray_balloon": "2025-08-23 00:08:59 +0000",
+      "has_white_balloon": "2025-08-23 00:08:59 +0000",
+      "has_blue_balloon": "2025-08-23 00:08:59 +0000",
+      "has_yellow_balloon": "2025-08-23 00:08:59 +0000",
+      "has_purple_balloon": "2025-08-23 00:08:59 +0000",
+      "has_orange_balloon": "2025-08-23 00:08:59 +0000",
+      "has_brown_balloon": "2025-08-23 00:08:59 +0000",
+      "has_green_balloon": "2025-08-23 00:08:59 +0000",
+      "has_magenta_balloon": "2025-08-23 00:08:59 +0000"
+    },
+    "done": true
+  },
+  "vs_eureka:recipes/ship_helm": {
+    "criteria": {
+      "has_gold": "2025-08-23 00:08:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:bamboo_jungle": "2025-08-23 00:09:00 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 3465
+}

@@ -1,0 +1,602 @@
+{
+  "portable_blueprints:recipes/recipes": {
+    "criteria": {
+      "always_unlock": "2025-08-10 17:38:37 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:root": {
+    "criteria": {
+      "always": "2025-08-10 17:38:37 +0000"
+    },
+    "done": true
+  },
+  "thijquint:root": {
+    "criteria": {
+      "tick": "2025-08-10 17:38:37 +0000"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2025-08-10 17:38:37 +0000"
+    },
+    "done": true
+  },
+  "prehistoricfauna:prehistoricfauna/general/root": {
+    "criteria": {
+      "tick": "2025-08-10 17:38:37 +0000"
+    },
+    "done": true
+  },
+  "jurassic_additions:welcome_to_jurassic_additions": {
+    "criteria": {
+      "welcome_to_jurassic_additions_0": "2025-08-10 17:38:37 +0000"
+    },
+    "done": true
+  },
+  "thijquint:anti": {
+    "criteria": {
+      "tick": "2025-08-10 17:38:37 +0000"
+    },
+    "done": true
+  },
+  "vs_eureka:recipes/balloon_color": {
+    "criteria": {
+      "has_red_balloon": "2025-08-10 17:38:37 +0000",
+      "has_black_balloon": "2025-08-10 17:38:37 +0000",
+      "has_lime_balloon": "2025-08-10 17:38:37 +0000",
+      "has_cyan_balloon": "2025-08-10 17:38:37 +0000",
+      "has_light_blue_balloon": "2025-08-10 17:38:37 +0000",
+      "has_gray_balloon": "2025-08-10 17:38:37 +0000",
+      "has_pink_balloon": "2025-08-10 17:38:37 +0000",
+      "has_light_gray_balloon": "2025-08-10 17:38:37 +0000",
+      "has_white_balloon": "2025-08-10 17:38:37 +0000",
+      "has_blue_balloon": "2025-08-10 17:38:37 +0000",
+      "has_yellow_balloon": "2025-08-10 17:38:37 +0000",
+      "has_purple_balloon": "2025-08-10 17:38:37 +0000",
+      "has_orange_balloon": "2025-08-10 17:38:37 +0000",
+      "has_brown_balloon": "2025-08-10 17:38:37 +0000",
+      "has_green_balloon": "2025-08-10 17:38:37 +0000",
+      "has_magenta_balloon": "2025-08-10 17:38:37 +0000"
+    },
+    "done": true
+  },
+  "vs_eureka:recipes/ship_helm": {
+    "criteria": {
+      "has_gold": "2025-08-10 17:38:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:deep_ocean": "2025-08-12 03:02:36 +0000",
+      "quark:glimmering_weald": "2025-08-12 02:40:00 +0000",
+      "minecraft:birch_forest": "2025-08-19 02:46:27 +0000",
+      "minecraft:bamboo_jungle": "2025-08-10 17:38:38 +0000",
+      "minecraft:savanna_plateau": "2025-09-21 19:14:59 +0000",
+      "minecraft:beach": "2025-08-11 15:49:26 +0000",
+      "minecraft:dark_forest": "2025-08-10 17:40:15 +0000",
+      "minecraft:stony_peaks": "2025-09-21 19:14:58 +0000",
+      "minecraft:sparse_jungle": "2025-09-20 04:25:43 +0000",
+      "minecraft:river": "2025-08-10 17:41:59 +0000",
+      "minecraft:lukewarm_ocean": "2025-08-12 03:03:40 +0000",
+      "minecraft:stony_shore": "2025-08-12 02:58:38 +0000",
+      "minecraft:dripstone_caves": "2025-09-21 19:36:25 +0000",
+      "minecraft:cold_ocean": "2025-09-21 19:42:29 +0000",
+      "minecraft:forest": "2025-08-10 17:40:58 +0000",
+      "minecraft:lush_caves": "2025-08-19 23:02:13 +0000",
+      "minecraft:ocean": "2025-08-11 15:51:05 +0000",
+      "minecraft:jungle": "2025-08-12 03:03:09 +0000",
+      "minecraft:warm_ocean": "2025-08-12 03:04:25 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-08-12 03:03:44 +0000",
+      "minecraft:old_growth_birch_forest": "2025-08-10 17:40:25 +0000",
+      "minecraft:deep_dark": "2025-08-12 03:13:02 +0000",
+      "minecraft:savanna": "2025-08-12 03:08:09 +0000",
+      "minecraft:plains": "2025-08-10 17:41:46 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_porkchop": "2025-09-01 01:59:45 +0000",
+      "baked_potato": "2025-08-12 03:14:11 +0000",
+      "apple": "2025-08-12 02:59:48 +0000",
+      "mutton": "2025-08-13 03:12:00 +0000",
+      "melon_slice": "2025-08-10 17:40:11 +0000",
+      "golden_carrot": "2025-08-10 17:57:20 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-08-10 17:40:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-08-10 17:43:45 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:first_trade": {
+    "criteria": {
+      "villagertrade": "2025-08-10 17:47:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-08-10 17:47:13 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:all_professions_traded": {
+    "criteria": {
+      "toolsmith": "2025-08-10 17:54:25 +0000",
+      "cleric": "2025-08-11 02:28:52 +0000",
+      "fletcher": "2025-08-10 17:49:26 +0000",
+      "woodworker": "2025-08-10 17:48:55 +0000",
+      "librarian": "2025-08-10 18:02:49 +0000",
+      "shepherd": "2025-08-10 18:14:27 +0000",
+      "weaponsmith": "2025-08-10 17:47:13 +0000",
+      "miner": "2025-08-11 01:26:00 +0000",
+      "netherian": "2025-09-21 20:13:52 +0000",
+      "armorer": "2025-08-10 17:53:27 +0000",
+      "farmer": "2025-08-10 17:56:01 +0000"
+    },
+    "done": false
+  },
+  "morevillagers:master_trade": {
+    "criteria": {
+      "villagertrade": "2025-08-10 17:47:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-08-10 17:51:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2025-08-10 17:53:27 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:all_workstations_get": {
+    "criteria": {
+      "barrel": "2025-08-11 01:59:01 +0000",
+      "grindstone": "2025-08-10 17:57:50 +0000",
+      "smithingtable": "2025-08-11 01:25:40 +0000",
+      "smoker": "2025-08-31 17:22:42 +0000",
+      "loom": "2025-08-10 18:11:41 +0000",
+      "lectern": "2025-08-31 16:23:33 +0000",
+      "stonecutter": "2025-08-11 15:30:37 +0000",
+      "cauldron": "2025-09-16 15:30:42 +0000",
+      "composter": "2025-09-08 22:24:57 +0000"
+    },
+    "done": false
+  },
+  "morevillagers:first_workstation_get": {
+    "criteria": {
+      "grindstone": "2025-08-10 17:57:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-08-10 18:04:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-08-10 18:04:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-08-10 18:04:37 +0000",
+      "minecraft:soul_sand_valley": "2025-08-16 02:59:25 +0000",
+      "minecraft:basalt_deltas": "2025-08-10 18:31:25 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-08-10 18:04:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:pillager": "2025-09-03 02:52:41 +0000",
+      "minecraft:skeleton": "2025-08-11 02:12:57 +0000",
+      "minecraft:spider": "2025-08-11 01:26:33 +0000",
+      "minecraft:creeper": "2025-08-11 15:21:20 +0000",
+      "minecraft:zombified_piglin": "2025-09-22 01:03:42 +0000",
+      "minecraft:witch": "2025-08-12 02:40:18 +0000",
+      "minecraft:cave_spider": "2025-08-11 15:51:38 +0000",
+      "minecraft:piglin": "2025-09-21 21:20:25 +0000",
+      "minecraft:enderman": "2025-08-10 18:04:52 +0000",
+      "quark:foxhound": "2025-08-10 18:25:56 +0000",
+      "minecraft:zombie": "2025-08-11 02:17:25 +0000",
+      "minecraft:drowned": "2025-09-07 23:22:39 +0000",
+      "minecraft:zombie_villager": "2025-08-11 02:29:42 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:enderman": "2025-08-10 18:04:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-08-10 18:29:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-08-10 18:29:53 +0000"
+    },
+    "done": true
+  },
+  "prehistoricfauna:prehistoricfauna/general/digger_man": {
+    "criteria": {
+      "cretaceous_fossil": "2025-08-11 01:28:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-08-11 01:58:48 +0000"
+    },
+    "done": true
+  },
+  "create:copper": {
+    "criteria": {
+      "0": "2025-08-11 01:59:48 +0000"
+    },
+    "done": true
+  },
+  "create:andesite_alloy": {
+    "criteria": {
+      "0": "2025-08-11 02:02:27 +0000"
+    },
+    "done": true
+  },
+  "create:andesite_casing": {
+    "criteria": {
+      "0": "2025-08-11 02:15:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-08-11 02:15:49 +0000"
+    },
+    "done": true
+  },
+  "create:brass": {
+    "criteria": {
+      "0": "2025-08-11 02:26:18 +0000"
+    },
+    "done": true
+  },
+  "create:rose_quartz": {
+    "criteria": {
+      "0": "2025-08-11 02:32:10 +0000"
+    },
+    "done": true
+  },
+  "create:belt": {
+    "criteria": {
+      "0": "2025-08-11 02:43:33 +0000"
+    },
+    "done": true
+  },
+  "create:water_wheel": {
+    "criteria": {
+      "0": "2025-08-11 15:16:40 +0000"
+    },
+    "done": true
+  },
+  "create:deployer": {
+    "criteria": {
+      "0": "2025-08-11 15:21:02 +0000"
+    },
+    "done": true
+  },
+  "create:precision_mechanism": {
+    "criteria": {
+      "0": "2025-08-11 15:22:49 +0000"
+    },
+    "done": true
+  },
+  "create:brass_casing": {
+    "criteria": {
+      "0": "2025-08-11 15:23:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-08-11 15:47:12 +0000"
+    },
+    "done": true
+  },
+  "quark:mine_toretoise": {
+    "criteria": {
+      "mine_toretoise": "2025-08-11 15:47:41 +0000"
+    },
+    "done": true
+  },
+  "jurassic_additions:digging_dinosaurs": {
+    "criteria": {
+      "digging_dinosaurs_0": "2025-08-11 15:50:07 +0000"
+    },
+    "done": true
+  },
+  "create:hand_crank_000": {
+    "criteria": {
+      "0": "2025-08-11 16:04:41 +0000"
+    },
+    "done": true
+  },
+  "create:super_glue": {
+    "criteria": {
+      "0": "2025-08-11 18:00:46 +0000"
+    },
+    "done": true
+  },
+  "create:funnel": {
+    "criteria": {
+      "0": "2025-08-11 18:05:17 +0000"
+    },
+    "done": true
+  },
+  "create:copper_casing": {
+    "criteria": {
+      "0": "2025-08-11 18:23:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-08-11 18:25:43 +0000"
+    },
+    "done": true
+  },
+  "create:wrench_goggles": {
+    "criteria": {
+      "0": "2025-08-11 18:40:17 +0000",
+      "1": "2025-08-11 18:44:57 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_pump_0": {
+    "criteria": {
+      "0": "2025-08-11 18:40:55 +0000"
+    },
+    "done": true
+  },
+  "create:display_link": {
+    "criteria": {
+      "0": "2025-08-11 19:09:19 +0000"
+    },
+    "done": true
+  },
+  "create:windmill": {
+    "criteria": {
+      "0": "2025-08-11 19:21:07 +0000"
+    },
+    "done": true
+  },
+  "create:speed_controller": {
+    "criteria": {
+      "0": "2025-08-11 19:21:26 +0000"
+    },
+    "done": true
+  },
+  "jurassic_additions:paleontology": {
+    "criteria": {
+      "paleontology_0": "2025-08-11 19:35:20 +0000"
+    },
+    "done": true
+  },
+  "create:encased_fan": {
+    "criteria": {
+      "0": "2025-08-11 23:31:18 +0000"
+    },
+    "done": true
+  },
+  "create:fan_processing": {
+    "criteria": {
+      "0": "2025-08-12 00:02:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-08-12 00:59:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-08-12 01:11:59 +0000"
+    },
+    "done": true
+  },
+  "jurassic_additions:paleobotany": {
+    "criteria": {
+      "paleobotany_0": "2025-08-13 03:28:38 +0000"
+    },
+    "done": true
+  },
+  "create:shifting_gears": {
+    "criteria": {
+      "0": "2025-08-13 04:26:06 +0000"
+    },
+    "done": true
+  },
+  "create:saw_processing": {
+    "criteria": {
+      "0": "2025-08-13 04:27:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-08-16 02:53:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-08-16 02:58:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_boots": "2025-08-17 19:46:49 +0000"
+    },
+    "done": true
+  },
+  "quark:overlevel_enchant": {
+    "criteria": {
+      "overlevel_enchant": "2025-08-20 15:55:26 +0000"
+    },
+    "done": true
+  },
+  "quark:get_forgotten_hat": {
+    "criteria": {
+      "get_forgotten_hat": "2025-08-31 01:33:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2025-08-31 02:03:19 +0000"
+    },
+    "done": true
+  },
+  "prehistoricfauna:prehistoricfauna/general/time_temple": {
+    "criteria": {
+      "time_temple": "2025-08-31 18:41:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "nether_wart": "2025-08-31 18:45:29 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_crafter": {
+    "criteria": {
+      "0": "2025-08-31 18:55:17 +0000"
+    },
+    "done": true
+  },
+  "fossil:fossil/root": {
+    "criteria": {
+      "requirement": "2025-09-01 16:00:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-09-03 02:52:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:pig": "2025-09-08 23:08:51 +0000",
+      "minecraft:sheep": "2025-09-23 02:08:57 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-09-08 23:08:51 +0000"
+    },
+    "done": true
+  },
+  "create:chute": {
+    "criteria": {
+      "0": "2025-09-08 23:54:02 +0000"
+    },
+    "done": true
+  },
+  "create:crushing_wheel": {
+    "criteria": {
+      "0": "2025-09-09 01:34:27 +0000"
+    },
+    "done": true
+  },
+  "create:crusher_maxed_0000": {
+    "criteria": {
+      "0": "2025-09-09 01:46:53 +0000"
+    },
+    "done": true
+  },
+  "create:millstone": {
+    "criteria": {
+      "0": "2025-09-16 15:24:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2025-09-20 02:28:08 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_arm": {
+    "criteria": {
+      "0": "2025-09-20 03:13:04 +0000"
+    },
+    "done": true
+  },
+  "fossil:fossil/break_fossil": {
+    "criteria": {
+      "fossil_bio": "2025-09-21 18:53:02 +0000"
+    },
+    "done": true
+  },
+  "jurassic_additions:fossilized_tree_sap": {
+    "criteria": {
+      "fossilized_tree_sap_0": "2025-09-21 19:18:55 +0000"
+    },
+    "done": true
+  },
+  "create:compacting": {
+    "criteria": {
+      "0": "2025-09-21 22:19:47 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_mixer": {
+    "criteria": {
+      "0": "2025-09-22 01:44:15 +0000"
+    },
+    "done": true
+  },
+  "create:contraption_actors": {
+    "criteria": {
+      "0": "2025-09-23 02:04:03 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

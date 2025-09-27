@@ -1,0 +1,106 @@
+{
+  "nome": "EsquinaAzul",
+  "altezza": 10,
+  "lunghezzaX": 10,
+  "lunghezzaZ": 10,
+  "offset": {
+    "f_123285_": 0,
+    "f_123286_": 0,
+    "f_123289_": 0
+  },
+  "BlocksData": {
+    "0": {
+      "x\u003d6,y\u003d0,z\u003d6": "\u003cbid\u003equark:polished_shale\u003c/bid\u003enull",
+      "x\u003d4,y\u003d0,z\u003d7": "\u003cbid\u003equark:polished_shale\u003c/bid\u003enull",
+      "x\u003d7,y\u003d0,z\u003d5": "\u003cbid\u003equark:polished_shale\u003c/bid\u003enull",
+      "x\u003d7,y\u003d0,z\u003d4": "\u003cbid\u003equark:polished_shale\u003c/bid\u003enull",
+      "x\u003d7,y\u003d0,z\u003d3": "\u003cbid\u003equark:polished_shale\u003c/bid\u003enull",
+      "x\u003d5,y\u003d0,z\u003d7": "\u003cbid\u003equark:polished_shale\u003c/bid\u003enull",
+      "x\u003d1,y\u003d0,z\u003d9": "\u003cbid\u003equark:polished_shale\u003c/bid\u003enull",
+      "x\u003d0,y\u003d0,z\u003d9": "\u003cbid\u003equark:polished_shale\u003c/bid\u003enull",
+      "x\u003d8,y\u003d0,z\u003d2": "\u003cbid\u003equark:polished_shale\u003c/bid\u003enull",
+      "x\u003d3,y\u003d0,z\u003d7": "\u003cbid\u003equark:polished_shale\u003c/bid\u003enull",
+      "x\u003d9,y\u003d0,z\u003d0": "\u003cbid\u003equark:polished_shale\u003c/bid\u003enull",
+      "x\u003d2,y\u003d0,z\u003d8": "\u003cbid\u003equark:polished_shale\u003c/bid\u003enull",
+      "x\u003d9,y\u003d0,z\u003d1": "\u003cbid\u003equark:polished_shale\u003c/bid\u003enull"
+    },
+    "1": {
+      "x\u003d6,y\u003d1,z\u003d5": "\u003cbid\u003equark:polished_shale\u003c/bid\u003enull",
+      "x\u003d2,y\u003d1,z\u003d7": "\u003cbid\u003equark:polished_shale\u003c/bid\u003enull",
+      "x\u003d1,y\u003d1,z\u003d8": "\u003cbid\u003equark:polished_shale\u003c/bid\u003enull",
+      "x\u003d8,y\u003d1,z\u003d0": "\u003cbid\u003equark:polished_shale\u003c/bid\u003enull",
+      "x\u003d8,y\u003d1,z\u003d1": "\u003cbid\u003equark:polished_shale\u003c/bid\u003enull",
+      "x\u003d4,y\u003d1,z\u003d6": "\u003cbid\u003equark:polished_shale\u003c/bid\u003enull",
+      "x\u003d0,y\u003d1,z\u003d8": "\u003cbid\u003equark:polished_shale\u003c/bid\u003enull",
+      "x\u003d7,y\u003d1,z\u003d2": "\u003cbid\u003equark:polished_shale\u003c/bid\u003enull",
+      "x\u003d5,y\u003d1,z\u003d6": "\u003cbid\u003equark:polished_shale\u003c/bid\u003enull",
+      "x\u003d3,y\u003d1,z\u003d6": "\u003cbid\u003equark:polished_shale\u003c/bid\u003enull",
+      "x\u003d6,y\u003d1,z\u003d3": "\u003cbid\u003equark:polished_shale\u003c/bid\u003enull",
+      "x\u003d6,y\u003d1,z\u003d4": "\u003cbid\u003equark:polished_shale\u003c/bid\u003enull"
+    },
+    "2": {
+      "x\u003d6,y\u003d2,z\u003d2": "\u003cbid\u003equark:polished_shale\u003c/bid\u003enull",
+      "x\u003d2,y\u003d2,z\u003d6": "\u003cbid\u003equark:polished_shale\u003c/bid\u003enull",
+      "x\u003d5,y\u003d2,z\u003d3": "\u003cbid\u003equark:polished_shale\u003c/bid\u003enull",
+      "x\u003d5,y\u003d2,z\u003d4": "\u003cbid\u003equark:polished_shale\u003c/bid\u003enull",
+      "x\u003d1,y\u003d2,z\u003d7": "\u003cbid\u003equark:polished_shale\u003c/bid\u003enull",
+      "x\u003d0,y\u003d2,z\u003d7": "\u003cbid\u003equark:polished_shale\u003c/bid\u003enull",
+      "x\u003d4,y\u003d2,z\u003d5": "\u003cbid\u003equark:polished_shale\u003c/bid\u003enull",
+      "x\u003d5,y\u003d2,z\u003d5": "\u003cbid\u003equark:polished_shale\u003c/bid\u003enull",
+      "x\u003d7,y\u003d2,z\u003d1": "\u003cbid\u003equark:polished_shale\u003c/bid\u003enull",
+      "x\u003d7,y\u003d2,z\u003d0": "\u003cbid\u003equark:polished_shale\u003c/bid\u003enull",
+      "x\u003d3,y\u003d2,z\u003d5": "\u003cbid\u003equark:polished_shale\u003c/bid\u003enull"
+    },
+    "3": {
+      "x\u003d3,y\u003d3,z\u003d4": "\u003cbid\u003equark:polished_shale\u003c/bid\u003enull",
+      "x\u003d6,y\u003d3,z\u003d0": "\u003cbid\u003equark:polished_shale\u003c/bid\u003enull",
+      "x\u003d6,y\u003d3,z\u003d1": "\u003cbid\u003equark:polished_shale\u003c/bid\u003enull",
+      "x\u003d2,y\u003d3,z\u003d5": "\u003cbid\u003equark:polished_shale\u003c/bid\u003enull",
+      "x\u003d5,y\u003d3,z\u003d2": "\u003cbid\u003equark:polished_shale\u003c/bid\u003enull",
+      "x\u003d1,y\u003d3,z\u003d6": "\u003cbid\u003equark:polished_shale\u003c/bid\u003enull",
+      "x\u003d4,y\u003d3,z\u003d3": "\u003cbid\u003equark:polished_shale\u003c/bid\u003enull",
+      "x\u003d4,y\u003d3,z\u003d4": "\u003cbid\u003equark:polished_shale\u003c/bid\u003enull",
+      "x\u003d0,y\u003d3,z\u003d6": "\u003cbid\u003equark:polished_shale\u003c/bid\u003enull"
+    },
+    "4": {
+      "x\u003d3,y\u003d4,z\u003d3": "\u003cbid\u003equark:polished_shale\u003c/bid\u003enull",
+      "x\u003d2,y\u003d4,z\u003d4": "\u003cbid\u003equark:polished_shale\u003c/bid\u003enull",
+      "x\u003d5,y\u003d4,z\u003d1": "\u003cbid\u003equark:polished_shale\u003c/bid\u003enull",
+      "x\u003d1,y\u003d4,z\u003d5": "\u003cbid\u003equark:polished_shale\u003c/bid\u003enull",
+      "x\u003d5,y\u003d4,z\u003d0": "\u003cbid\u003equark:polished_shale\u003c/bid\u003enull",
+      "x\u003d4,y\u003d4,z\u003d2": "\u003cbid\u003equark:polished_shale\u003c/bid\u003enull",
+      "x\u003d0,y\u003d4,z\u003d5": "\u003cbid\u003equark:polished_shale\u003c/bid\u003enull"
+    },
+    "5": {
+      "x\u003d0,y\u003d5,z\u003d4": "\u003cbid\u003equark:polished_shale\u003c/bid\u003enull",
+      "x\u003d3,y\u003d5,z\u003d2": "\u003cbid\u003equark:polished_shale\u003c/bid\u003enull",
+      "x\u003d2,y\u003d5,z\u003d3": "\u003cbid\u003equark:polished_shale\u003c/bid\u003enull",
+      "x\u003d1,y\u003d5,z\u003d4": "\u003cbid\u003equark:polished_shale\u003c/bid\u003enull",
+      "x\u003d4,y\u003d5,z\u003d0": "\u003cbid\u003equark:polished_shale\u003c/bid\u003enull",
+      "x\u003d4,y\u003d5,z\u003d1": "\u003cbid\u003equark:polished_shale\u003c/bid\u003enull"
+    },
+    "6": {
+      "x\u003d0,y\u003d6,z\u003d3": "\u003cbid\u003equark:polished_shale\u003c/bid\u003enull",
+      "x\u003d3,y\u003d6,z\u003d0": "\u003cbid\u003equark:polished_shale\u003c/bid\u003enull",
+      "x\u003d3,y\u003d6,z\u003d1": "\u003cbid\u003equark:polished_shale\u003c/bid\u003enull",
+      "x\u003d2,y\u003d6,z\u003d2": "\u003cbid\u003equark:polished_shale\u003c/bid\u003enull",
+      "x\u003d1,y\u003d6,z\u003d3": "\u003cbid\u003equark:polished_shale\u003c/bid\u003enull"
+    },
+    "7": {
+      "x\u003d1,y\u003d7,z\u003d2": "\u003cbid\u003equark:polished_shale\u003c/bid\u003enull",
+      "x\u003d0,y\u003d7,z\u003d2": "\u003cbid\u003equark:polished_shale\u003c/bid\u003enull",
+      "x\u003d2,y\u003d7,z\u003d1": "\u003cbid\u003equark:polished_shale\u003c/bid\u003enull",
+      "x\u003d2,y\u003d7,z\u003d0": "\u003cbid\u003equark:polished_shale\u003c/bid\u003enull"
+    },
+    "8": {
+      "x\u003d1,y\u003d8,z\u003d0": "\u003cbid\u003equark:polished_shale\u003c/bid\u003enull",
+      "x\u003d1,y\u003d8,z\u003d1": "\u003cbid\u003equark:polished_shale\u003c/bid\u003enull",
+      "x\u003d0,y\u003d8,z\u003d1": "\u003cbid\u003equark:polished_shale\u003c/bid\u003enull"
+    },
+    "9": {
+      "x\u003d0,y\u003d9,z\u003d0": "\u003cbid\u003equark:polished_shale\u003c/bid\u003enull"
+    }
+  },
+  "NotSolidBlocksData": {},
+  "BlocksNBT": {}
+}

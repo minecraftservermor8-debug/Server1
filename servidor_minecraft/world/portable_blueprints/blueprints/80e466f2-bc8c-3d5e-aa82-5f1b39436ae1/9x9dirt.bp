@@ -1,0 +1,26 @@
+{
+  "nome": "9x9dirt",
+  "altezza": 1,
+  "lunghezzaX": 3,
+  "lunghezzaZ": 3,
+  "offset": {
+    "f_123285_": 0,
+    "f_123286_": 0,
+    "f_123289_": 0
+  },
+  "BlocksData": {
+    "0": {
+      "x\u003d2,y\u003d0,z\u003d0": "\u003cbid\u003eminecraft:grass_block\u003c/bid\u003e\u003cproperties\u003e\u003cpropertie\u003e\u003cname\u003esnowy\u003c/name\u003e\u003cvalue\u003efalse\u003c/value\u003e\u003cclasse\u003ejava.lang.Boolean\u003c/classe\u003e\u003c/propertie\u003e;!v!;\u003c/properties\u003e",
+      "x\u003d2,y\u003d0,z\u003d1": "\u003cbid\u003eminecraft:grass_block\u003c/bid\u003e\u003cproperties\u003e\u003cpropertie\u003e\u003cname\u003esnowy\u003c/name\u003e\u003cvalue\u003efalse\u003c/value\u003e\u003cclasse\u003ejava.lang.Boolean\u003c/classe\u003e\u003c/propertie\u003e;!v!;\u003c/properties\u003e",
+      "x\u003d2,y\u003d0,z\u003d2": "\u003cbid\u003eminecraft:grass_block\u003c/bid\u003e\u003cproperties\u003e\u003cpropertie\u003e\u003cname\u003esnowy\u003c/name\u003e\u003cvalue\u003efalse\u003c/value\u003e\u003cclasse\u003ejava.lang.Boolean\u003c/classe\u003e\u003c/propertie\u003e;!v!;\u003c/properties\u003e",
+      "x\u003d1,y\u003d0,z\u003d0": "\u003cbid\u003eminecraft:grass_block\u003c/bid\u003e\u003cproperties\u003e\u003cpropertie\u003e\u003cname\u003esnowy\u003c/name\u003e\u003cvalue\u003efalse\u003c/value\u003e\u003cclasse\u003ejava.lang.Boolean\u003c/classe\u003e\u003c/propertie\u003e;!v!;\u003c/properties\u003e",
+      "x\u003d1,y\u003d0,z\u003d1": "\u003cbid\u003eminecraft:grass_block\u003c/bid\u003e\u003cproperties\u003e\u003cpropertie\u003e\u003cname\u003esnowy\u003c/name\u003e\u003cvalue\u003efalse\u003c/value\u003e\u003cclasse\u003ejava.lang.Boolean\u003c/classe\u003e\u003c/propertie\u003e;!v!;\u003c/properties\u003e",
+      "x\u003d1,y\u003d0,z\u003d2": "\u003cbid\u003eminecraft:grass_block\u003c/bid\u003e\u003cproperties\u003e\u003cpropertie\u003e\u003cname\u003esnowy\u003c/name\u003e\u003cvalue\u003efalse\u003c/value\u003e\u003cclasse\u003ejava.lang.Boolean\u003c/classe\u003e\u003c/propertie\u003e;!v!;\u003c/properties\u003e",
+      "x\u003d0,y\u003d0,z\u003d0": "\u003cbid\u003eminecraft:grass_block\u003c/bid\u003e\u003cproperties\u003e\u003cpropertie\u003e\u003cname\u003esnowy\u003c/name\u003e\u003cvalue\u003efalse\u003c/value\u003e\u003cclasse\u003ejava.lang.Boolean\u003c/classe\u003e\u003c/propertie\u003e;!v!;\u003c/properties\u003e",
+      "x\u003d0,y\u003d0,z\u003d1": "\u003cbid\u003eminecraft:grass_block\u003c/bid\u003e\u003cproperties\u003e\u003cpropertie\u003e\u003cname\u003esnowy\u003c/name\u003e\u003cvalue\u003efalse\u003c/value\u003e\u003cclasse\u003ejava.lang.Boolean\u003c/classe\u003e\u003c/propertie\u003e;!v!;\u003c/properties\u003e",
+      "x\u003d0,y\u003d0,z\u003d2": "\u003cbid\u003eminecraft:grass_block\u003c/bid\u003e\u003cproperties\u003e\u003cpropertie\u003e\u003cname\u003esnowy\u003c/name\u003e\u003cvalue\u003efalse\u003c/value\u003e\u003cclasse\u003ejava.lang.Boolean\u003c/classe\u003e\u003c/propertie\u003e;!v!;\u003c/properties\u003e"
+    }
+  },
+  "NotSolidBlocksData": {},
+  "BlocksNBT": {}
+}
