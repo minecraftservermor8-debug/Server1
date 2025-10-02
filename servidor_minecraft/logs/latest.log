@@ -129,3 +129,5 @@
 [02Oct2025 00:49:55.984] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8497914650000006E7, 65.0, 227.8249498642981] -> [392.1837104652077, 66.88486187036386, 1.2290049650000006E7] returning empty list! this might break things
 [02Oct2025 00:50:01.034] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8497914650000006E7, 65.0, 227.79727245867252] -> [392.18244638852775, 66.80130172511882, 1.2290049650000006E7] returning empty list! this might break things
 [02Oct2025 02:44:27.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: natasha fell from a high place
+[02Oct2025 03:03:45.228] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: natasha lost connection: Disconnected
+[02Oct2025 03:03:45.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: natasha left the game
