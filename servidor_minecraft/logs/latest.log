@@ -462,3 +462,8 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [04Oct2025 04:33:51.455] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8592125650000006E7, 67.01972715391514, 9.21499153226614] -> [-53.35347305983305, 110.30000001192093, 1.2290058650000006E7] returning empty list! this might break things
 [04Oct2025 04:39:41.946] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Morangg lost connection: Disconnected
 [04Oct2025 04:39:41.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Morangg left the game
+[04Oct2025 05:33:13.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: natasha fell from a high place
+[04Oct2025 05:34:05.350] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: natasha lost connection: Disconnected
+[04Oct2025 05:34:05.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: natasha left the game
+[04Oct2025 05:34:12.236] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luiss lost connection: Disconnected
+[04Oct2025 05:34:12.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luiss left the game
