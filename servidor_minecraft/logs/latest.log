@@ -436,3 +436,15 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [04Oct2025 02:18:30.794] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2471ms or 49 ticks behind
 [04Oct2025 02:19:54.088] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Morangg[/127.157.203.231:56137] logged in with entity id 1092 at (205.54707104835896, 63.0, 356.3127520097288)
 [04Oct2025 02:19:54.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Morangg joined the game
+[04Oct2025 02:26:57.043] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8588021650000006E7, 68.0, -33.40151300653815] -> [-35.21714507415891, 81.16960559181398, 1.2290062650000006E7] returning empty list! this might break things
+[04Oct2025 02:27:02.041] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8588021650000006E7, 68.0, -33.71328862383962] -> [-26.602105267345905, 78.27547152219569, 1.2290062650000006E7] returning empty list! this might break things
+[04Oct2025 02:27:07.045] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8588021650000006E7, 66.45225773214709, -33.740011498332024] -> [-25.26363918557763, 68.30000001192093, 1.2290062650000006E7] returning empty list! this might break things
+[04Oct2025 02:28:08.796] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Netherologist'/29645, l='ServerLevel[Mundo nuevo def3]', x=495.30, y=145.00, z=391.98] died, message: 'Netherologist was slain by Zombie'
+[04Oct2025 02:28:12.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: natasha fell from a high place
+[04Oct2025 02:37:04.882] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lol[/127.204.34.158:42599] logged in with entity id 53761 at (710.7335780314626, 104.0, 231.50069419417596)
+[04Oct2025 02:37:04.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lol joined the game
+[04Oct2025 02:39:01.769] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Luiss[/127.250.91.65:40883] logged in with entity id 65262 at (411.1053556522006, 64.5, 268.41550806190355)
+[04Oct2025 02:39:01.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luiss joined the game
+[04Oct2025 02:44:21.964] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8592120625E7, 66.20135353114324, 14.077394671738148] -> [-51.906923573464155, 110.17499999701977, 1.2290059625E7] returning empty list! this might break things
+[04Oct2025 02:44:51.514] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lol lost connection: Disconnected
+[04Oct2025 02:44:51.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lol left the game
