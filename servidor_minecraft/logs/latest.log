@@ -1,133 +1,438 @@
-[02Oct2025 00:00:08.533] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=85, y=64, z=33} BlockPos{x=85, y=65, z=33}
-[02Oct2025 00:00:08.586] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=85, y=64, z=33} BlockPos{x=85, y=65, z=33}
-[02Oct2025 00:00:08.631] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=85, y=64, z=33} BlockPos{x=85, y=65, z=33}
-[02Oct2025 00:00:08.666] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=85, y=64, z=33} BlockPos{x=85, y=65, z=33}
-[02Oct2025 00:00:08.714] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=85, y=64, z=33} BlockPos{x=85, y=65, z=33}
-[02Oct2025 00:00:08.754] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=85, y=64, z=33} BlockPos{x=85, y=65, z=33}
-[02Oct2025 00:00:23.084] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=89, y=76, z=44} BlockPos{x=89, y=75, z=45}
-[02Oct2025 00:00:23.135] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=89, y=76, z=44} BlockPos{x=89, y=74, z=43}
-[02Oct2025 00:01:23.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: natasha burned to death
-[02Oct2025 00:06:21.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: natasha fell from a high place
-[02Oct2025 00:10:15.531] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8592124625E7, 66.18752774632708, -1.758959822356701] -> [-24.916885522194207, 110.17499999701977, 1.2290058625E7] returning empty list! this might break things
-[02Oct2025 00:10:20.577] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8592125650000006E7, 66.03543517607335, -0.7704805471003056] -> [-25.068241890519857, 110.30000001192093, 1.2290058650000006E7] returning empty list! this might break things
-[02Oct2025 00:10:25.577] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8592125650000006E7, 83.02871958426972, 4.377608837670872] -> [-28.53258993656584, 110.30000001192093, 1.2290058650000006E7] returning empty list! this might break things
-[02Oct2025 00:10:30.578] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8592125650000006E7, 88.33052024247202, 17.822874541475276] -> [-22.265613418640765, 110.30000001192093, 1.2290058650000006E7] returning empty list! this might break things
-[02Oct2025 00:10:35.624] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8592125650000006E7, 88.34839021454722, 30.67074668287045] -> [-14.601186038728088, 110.30000001192093, 1.2290058650000006E7] returning empty list! this might break things
-[02Oct2025 00:10:40.628] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8592125650000006E7, 90.4322360287335, 36.38961498614813] -> [-0.22149854264850055, 110.30000001192093, 1.2290058650000006E7] returning empty list! this might break things
-[02Oct2025 00:10:45.677] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8592125650000006E7, 90.43962523723866, 39.35424597310431] -> [14.726769638925337, 110.30000001192093, 1.2290058650000006E7] returning empty list! this might break things
-[02Oct2025 00:10:50.677] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8592125650000006E7, 90.4395580184953, 42.794897472721196] -> [29.31381565471657, 110.30000001192093, 1.2290058650000006E7] returning empty list! this might break things
-[02Oct2025 00:10:55.729] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8592125650000006E7, 90.43957092052702, 46.265095983867205] -> [44.060994991562445, 110.30000001192093, 1.2290058650000006E7] returning empty list! this might break things
-[02Oct2025 00:11:00.777] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8592125650000006E7, 90.43957146681852, 49.736170344289995] -> [58.8079964718736, 110.30000001192093, 1.2290058650000006E7] returning empty list! this might break things
-[02Oct2025 00:11:05.826] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8592125650000006E7, 90.43963868000459, 53.12921294942498] -> [73.26472644507885, 110.30000001192093, 1.2290058650000006E7] returning empty list! this might break things
-[02Oct2025 00:11:10.828] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8592125650000006E7, 90.43599546437054, 53.9333740727984] -> [78.7245498835053, 110.30000001192093, 1.2290058650000006E7] returning empty list! this might break things
-[02Oct2025 00:11:15.877] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8592125650000006E7, 90.43539252821755, 50.169904528127226] -> [90.69075692707821, 110.30000001192093, 1.2290058650000006E7] returning empty list! this might break things
-[02Oct2025 00:11:20.927] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8592125650000006E7, 90.43658167196347, 46.26816052378825] -> [104.92529399955794, 110.30000001192093, 1.2290058650000006E7] returning empty list! this might break things
-[02Oct2025 00:11:25.930] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8592125650000006E7, 90.43662120098384, 42.39973611192516] -> [119.37714867929145, 110.30000001192093, 1.2290058650000006E7] returning empty list! this might break things
-[02Oct2025 00:11:30.977] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8592125650000006E7, 90.4366229810986, 38.48662906320504] -> [134.00827615225836, 110.30000001192093, 1.2290058650000006E7] returning empty list! this might break things
-[02Oct2025 00:11:35.977] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8592125650000006E7, 90.43662307607627, 34.61134851904324] -> [148.4984905112736, 110.30000001192093, 1.2290058650000006E7] returning empty list! this might break things
-[02Oct2025 00:11:40.978] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8592125650000006E7, 90.43662310443386, 30.735952651069674] -> [162.98915800342485, 110.30000001192093, 1.2290058650000006E7] returning empty list! this might break things
-[02Oct2025 00:11:45.979] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8592125650000006E7, 89.93591261735722, 31.96747093503084] -> [164.97878703648652, 110.30000001192093, 1.2290058650000006E7] returning empty list! this might break things
-[02Oct2025 00:11:51.030] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8592125650000006E7, 98.11261790912273, 33.089203578844796] -> [168.41115226749193, 110.30000001192093, 1.2290058650000006E7] returning empty list! this might break things
-[02Oct2025 00:11:56.080] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8592125650000006E7, 98.4303607693133, 26.8594507437658] -> [180.06484028710744, 110.30000001192093, 1.2290058650000006E7] returning empty list! this might break things
-[02Oct2025 00:12:01.127] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8592125650000006E7, 98.42783471298951, 21.386038926662177] -> [193.83228666721604, 110.30000001192093, 1.2290058650000006E7] returning empty list! this might break things
-[02Oct2025 00:12:06.128] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8592125650000006E7, 98.43630446936906, 14.30418622369312] -> [207.0486572373102, 110.30000001192093, 1.2290058650000006E7] returning empty list! this might break things
-[02Oct2025 00:12:11.179] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8592125650000006E7, 98.43609213324403, 7.842146279908645] -> [220.6913093242238, 110.30000001192093, 1.2290058650000006E7] returning empty list! this might break things
-[02Oct2025 00:12:16.226] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8592125650000006E7, 98.43608298856995, 1.3433050463571425] -> [234.37610761703948, 110.30000001192093, 1.2290058650000006E7] returning empty list! this might break things
-[02Oct2025 00:12:21.230] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8592125650000006E7, 98.43608042543809, -5.0705010190328785] -> [247.88076998696408, 110.30000001192093, 1.2290058650000006E7] returning empty list! this might break things
-[02Oct2025 00:12:26.278] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8592125650000006E7, 98.43608252614823, -11.570174084357989] -> [261.56535997124416, 110.30000001192093, 1.2290058650000006E7] returning empty list! this might break things
-[02Oct2025 00:12:31.327] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8592125650000006E7, 98.43608249986542, -18.048391816519274] -> [275.2051742102395, 110.30000001192093, 1.2290058650000006E7] returning empty list! this might break things
-[02Oct2025 00:12:36.330] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8592125650000006E7, 98.43608247420163, -24.483707790575995] -> [288.75465916352374, 110.30000001192093, 1.2290058650000006E7] returning empty list! this might break things
-[02Oct2025 00:12:41.330] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8592125650000006E7, 98.43608244848022, -30.919023798160328] -> [302.3041441875885, 110.30000001192093, 1.2290058650000006E7] returning empty list! this might break things
-[02Oct2025 00:12:46.377] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8592125650000006E7, 109.00084871261382, -37.376813162846446] -> [316.0440990330437, 110.8008486649301, 1.2290058650000006E7] returning empty list! this might break things
-[02Oct2025 00:12:51.430] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8592125650000006E7, 110.0, -43.76097120826838] -> [329.7849614095494, 129.39659846534636, 1.2290058650000006E7] returning empty list! this might break things
-[02Oct2025 00:12:56.481] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8592125650000006E7, 110.0, -50.17073129972217] -> [343.5709601339504, 147.5538005496797, 1.2290058650000006E7] returning empty list! this might break things
-[02Oct2025 00:13:01.529] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8592125650000006E7, 110.0, -56.664275949928324] -> [357.2631306998066, 148.33158558151644, 1.2290058650000006E7] returning empty list! this might break things
-[02Oct2025 00:13:06.582] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8592125650000006E7, 110.0, -63.16400695701835] -> [370.9477317888841, 148.33161489069062, 1.2290058650000006E7] returning empty list! this might break things
-[02Oct2025 00:13:11.625] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8592125650000006E7, 110.0, -69.65053241867103] -> [384.69111172609433, 153.24119816178447, 1.2290058650000006E7] returning empty list! this might break things
-[02Oct2025 00:13:16.628] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8592125650000006E7, 110.0, -76.06373535972259] -> [398.2120399944473, 153.62759933890575, 1.2290058650000006E7] returning empty list! this might break things
-[02Oct2025 00:13:21.676] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8592125650000006E7, 110.0, -82.570927951972] -> [411.89598908265106, 153.62765650220632, 1.2290058650000006E7] returning empty list! this might break things
-[02Oct2025 00:13:26.678] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8592125650000006E7, 110.0, -89.00903109956728] -> [425.44585588998956, 153.6276680577367, 1.2290058650000006E7] returning empty list! this might break things
-[02Oct2025 00:13:31.726] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8592125650000006E7, 110.0, -95.46109749095903] -> [439.1873019828385, 164.56154290497324, 1.2290058650000006E7] returning empty list! this might break things
-[02Oct2025 00:13:36.775] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8592125650000006E7, 110.0, -100.73094385998414] -> [453.4445211965531, 183.22474056423022, 1.2290058650000006E7] returning empty list! this might break things
-[02Oct2025 00:13:41.780] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8592125650000006E7, 110.0, -105.3774900292234] -> [467.74362599595923, 198.49295537159884, 1.2290058650000006E7] returning empty list! this might break things
-[02Oct2025 00:13:46.825] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8592125650000006E7, 110.0, -110.15857910663416] -> [482.141617699399, 209.0570906706603, 1.2290058650000006E7] returning empty list! this might break things
-[02Oct2025 00:13:51.875] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8592125650000006E7, 110.0, -112.11353866972404] -> [487.7626442476598, 211.06126499201247, 1.2290058650000006E7] returning empty list! this might break things
-[02Oct2025 00:13:56.875] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8592125650000006E7, 110.0, -110.63221135730537] -> [484.78680576109633, 217.21982486920638, 1.2290058650000006E7] returning empty list! this might break things
-[02Oct2025 00:14:01.924] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8592125650000006E7, 110.0, -111.54456758201444] -> [495.11532274570936, 219.3034119858972, 1.2290058650000006E7] returning empty list! this might break things
-[02Oct2025 00:14:06.926] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8592125650000006E7, 110.0, -105.95666864890369] -> [501.07766425194563, 219.30597979049168, 1.2290058650000006E7] returning empty list! this might break things
-[02Oct2025 00:15:03.974] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8592125650000006E7, 110.0, -106.96013777516782] -> [498.86603577435017, 219.30616949812116, 1.2290058650000006E7] returning empty list! this might break things
-[02Oct2025 00:15:08.975] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8592125650000006E7, 110.0, -102.1693523969071] -> [499.91793422585744, 219.30224572028843, 1.2290058650000006E7] returning empty list! this might break things
-[02Oct2025 00:15:13.977] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8592125650000006E7, 110.0, -88.05574470541755] -> [494.8123825049347, 219.28985416802198, 1.2290058650000006E7] returning empty list! this might break things
-[02Oct2025 00:15:19.027] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8592125650000006E7, 110.0, -78.8626301586628] -> [482.9359076600522, 219.28707241437303, 1.2290058650000006E7] returning empty list! this might break things
-[02Oct2025 00:15:24.077] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8592125650000006E7, 110.0, -76.34845000071194] -> [479.87425907363934, 219.28916908453388, 1.2290058650000006E7] returning empty list! this might break things
-[02Oct2025 00:15:29.078] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8592125650000006E7, 110.0, -69.72364282173778] -> [471.81674638612014, 219.289125199289, 1.2290058650000006E7] returning empty list! this might break things
-[02Oct2025 00:15:34.126] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8592125650000006E7, 110.0, -59.64684501361869] -> [461.2320129173626, 219.28806730811277, 1.2290058650000006E7] returning empty list! this might break things
-[02Oct2025 00:15:40.125] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8592125650000006E7, 110.0, -53.53907201210413] -> [454.7661258398148, 219.28823228160846, 1.2290058650000006E7] returning empty list! this might break things
-[02Oct2025 00:15:45.126] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8592125650000006E7, 110.0, -48.883518149017384] -> [449.7946465484646, 219.28772936575712, 1.2290058650000006E7] returning empty list! this might break things
-[02Oct2025 00:15:50.177] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8592125650000006E7, 110.0, -39.22938346718484] -> [439.57413132403593, 219.287468259233, 1.2290058650000006E7] returning empty list! this might break things
-[02Oct2025 00:15:55.207] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8592125650000006E7, 110.0, -33.250357820989265] -> [433.20726805298057, 219.28799227795437, 1.2290058650000006E7] returning empty list! this might break things
-[02Oct2025 00:16:00.228] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8592125650000006E7, 110.0, -25.715235504501702] -> [425.1971788712086, 219.28752749745456, 1.2290058650000006E7] returning empty list! this might break things
-[02Oct2025 00:16:05.234] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8592125650000006E7, 110.0, -15.792349613801338] -> [414.63724872764215, 219.28750539239786, 1.2290058650000006E7] returning empty list! this might break things
-[02Oct2025 00:16:10.279] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8592125650000006E7, 110.0, -5.444230185847501] -> [403.64273998698525, 219.2874661194987, 1.2290058650000006E7] returning empty list! this might break things
-[02Oct2025 00:16:15.333] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8592125650000006E7, 110.0, 3.816675043653988] -> [393.80180426940206, 219.28747643574945, 1.2290058650000006E7] returning empty list! this might break things
-[02Oct2025 00:16:20.378] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8592125650000006E7, 110.0, 13.642983829542667] -> [383.30887814710155, 219.28698209239528, 1.2290058650000006E7] returning empty list! this might break things
-[02Oct2025 00:16:25.427] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8592125650000006E7, 110.0, 24.001006182306558] -> [372.3331598641852, 219.28684070051673, 1.2290058650000006E7] returning empty list! this might break things
-[02Oct2025 00:16:30.428] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8592125650000006E7, 110.0, 34.281850829679726] -> [361.37462195130416, 219.28690520249046, 1.2290058650000006E7] returning empty list! this might break things
-[02Oct2025 00:16:35.475] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8592125650000006E7, 110.0, 44.64947594886166] -> [350.33404905812654, 219.28695481060004, 1.2290058650000006E7] returning empty list! this might break things
-[02Oct2025 00:16:40.480] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8592125650000006E7, 110.0, 54.84046425450883] -> [339.48745979409654, 219.28699165448012, 1.2290058650000006E7] returning empty list! this might break things
-[02Oct2025 00:16:45.483] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8592125650000006E7, 110.0, 65.11607612172615] -> [328.5603730546787, 219.28699155811563, 1.2290058650000006E7] returning empty list! this might break things
-[02Oct2025 00:16:50.534] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8592125650000006E7, 110.0, 75.49488714630876] -> [317.5233957755103, 219.28699155976747, 1.2290058650000006E7] returning empty list! this might break things
-[02Oct2025 00:16:55.581] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8592125650000006E7, 110.0, 85.87346518705759] -> [306.48674472297574, 219.28699150997483, 1.2290058650000006E7] returning empty list! this might break things
-[02Oct2025 00:17:00.632] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8592125650000006E7, 110.0, 96.25204326878462] -> [295.4500936313256, 219.28699146019753, 1.2290058650000006E7] returning empty list! this might break things
-[02Oct2025 00:17:05.680] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8592125650000006E7, 110.0, 106.56039919030823] -> [284.4891268078257, 219.28698985723452, 1.2290058650000006E7] returning empty list! this might break things
-[02Oct2025 00:17:10.732] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8592125650000006E7, 110.0, 116.93897727576055] -> [273.45247570686234, 219.28698980745224, 1.2290058650000006E7] returning empty list! this might break things
-[02Oct2025 00:17:15.732] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8592125650000006E7, 110.0, 127.2490499026791] -> [262.48867378086044, 219.28698975799827, 1.2290058650000006E7] returning empty list! this might break things
-[02Oct2025 00:17:21.630] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8592125650000006E7, 110.0, 139.2231314184737] -> [249.78474935969425, 219.28668053104676, 1.2290058650000006E7] returning empty list! this might break things
-[02Oct2025 00:17:26.677] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8592125650000006E7, 110.0, 149.4895877203353] -> [238.8387650417616, 219.2865918767545, 1.2290058650000006E7] returning empty list! this might break things
-[02Oct2025 00:17:31.678] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8592125650000006E7, 110.0, 159.76540759563522] -> [227.91138768740794, 219.28659182546542, 1.2290058650000006E7] returning empty list! this might break things
-[02Oct2025 00:17:36.724] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8592125650000006E7, 110.0, 170.0803430750966] -> [216.95930083841085, 217.79932400386537, 1.2290058650000006E7] returning empty list! this might break things
-[02Oct2025 00:17:41.727] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8592125650000006E7, 110.0, 176.9953684507318] -> [209.56289330483278, 214.9131000504569, 1.2290058650000006E7] returning empty list! this might break things
-[02Oct2025 00:17:46.727] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8592125650000006E7, 110.0, 186.64640572952962] -> [199.2417435183666, 204.93577473185968, 1.2290058650000006E7] returning empty list! this might break things
-[02Oct2025 00:17:51.727] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8592125650000006E7, 110.0, 196.25963701680303] -> [188.98364029824734, 196.79759601196847, 1.2290058650000006E7] returning empty list! this might break things
-[02Oct2025 00:17:56.732] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8592125650000006E7, 110.0, 199.09208854480806] -> [185.90222230570677, 187.13621601409665, 1.2290058650000006E7] returning empty list! this might break things
-[02Oct2025 00:18:01.808] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8592125650000006E7, 110.0, 206.8562396397396] -> [177.602484113646, 177.0023862782427, 1.2290058650000006E7] returning empty list! this might break things
-[02Oct2025 00:18:06.827] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8592125650000006E7, 110.0, 216.87202033598498] -> [166.88974335362033, 166.9356512727348, 1.2290058650000006E7] returning empty list! this might break things
-[02Oct2025 00:18:11.828] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8592125650000006E7, 110.0, 227.0985346205129] -> [155.9487441349595, 157.6127969160481, 1.2290058650000006E7] returning empty list! this might break things
-[02Oct2025 00:18:16.877] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8592125650000006E7, 110.0, 232.0602926015854] -> [150.59405618533492, 147.7362751491159, 1.2290058650000006E7] returning empty list! this might break things
-[02Oct2025 00:18:21.925] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8592125650000006E7, 110.0, 232.6122096069157] -> [149.94121688231826, 137.63639353413876, 1.2290058650000006E7] returning empty list! this might break things
-[02Oct2025 00:18:26.927] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8592125650000006E7, 110.0, 232.64369367063046] -> [149.84246128611267, 127.63640620484375, 1.2290058650000006E7] returning empty list! this might break things
-[02Oct2025 00:18:31.977] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8592125650000006E7, 110.0, 232.61542231962085] -> [149.80659716017544, 117.5364076988572, 1.2290058650000006E7] returning empty list! this might break things
-[02Oct2025 00:18:37.027] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8592125650000006E7, 105.6364079255483, 232.58014374226332] -> [149.77818453498185, 110.30000001192093, 1.2290058650000006E7] returning empty list! this might break things
-[02Oct2025 00:18:42.077] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8592125650000006E7, 104.48726132470838, 232.57469768077135] -> [149.77386392839253, 110.30000001192093, 1.2290058650000006E7] returning empty list! this might break things
-[02Oct2025 00:18:47.078] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8592125650000006E7, 104.48843733051949, 237.960088416934] -> [151.07644392736256, 110.30000001192093, 1.2290058650000006E7] returning empty list! this might break things
-[02Oct2025 00:18:52.079] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8592125650000006E7, 104.49223587232655, 240.35642509349276] -> [147.40247872470357, 110.30000001192093, 1.2290058650000006E7] returning empty list! this might break things
-[02Oct2025 00:18:57.130] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8592125650000006E7, 104.48980961677843, 241.23984618485687] -> [138.8850644718536, 110.30000001192093, 1.2290058650000006E7] returning empty list! this might break things
-[02Oct2025 00:19:02.178] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8592125650000006E7, 104.48670663588659, 238.55324156327958] -> [126.2400617219655, 110.30000001192093, 1.2290058650000006E7] returning empty list! this might break things
-[02Oct2025 00:19:07.179] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8592125650000006E7, 104.48317742112715, 237.12049929356988] -> [111.67290592865629, 110.30000001192093, 1.2290058650000006E7] returning empty list! this might break things
-[02Oct2025 00:19:12.181] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8592125650000006E7, 104.48318858925515, 235.90889042920287] -> [96.66571488530917, 110.30000001192093, 1.2290058650000006E7] returning empty list! this might break things
-[02Oct2025 00:19:17.227] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8592125650000006E7, 104.48318860099155, 234.69962646757173] -> [81.67021629962203, 110.30000001192093, 1.2290058650000006E7] returning empty list! this might break things
-[02Oct2025 00:19:22.227] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8592125650000006E7, 104.48318917952878, 233.49764230406697] -> [66.76846168117208, 110.30000001192093, 1.2290058650000006E7] returning empty list! this might break things
-[02Oct2025 00:19:27.231] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8592125650000006E7, 104.98982463716243, 232.29723306118365] -> [51.86683303044719, 110.30000001192093, 1.2290058650000006E7] returning empty list! this might break things
-[02Oct2025 00:19:32.277] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8592125650000006E7, 105.03544118242525, 229.01917606314038] -> [37.155146119854386, 110.30000001192093, 1.2290058650000006E7] returning empty list! this might break things
-[02Oct2025 00:19:37.327] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8592125650000006E7, 105.0349637323209, 221.47801576554775] -> [23.989261344075203, 110.30000001192093, 1.2290058650000006E7] returning empty list! this might break things
-[02Oct2025 00:19:42.377] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8592125650000006E7, 105.03301917857362, 214.18474294339418] -> [20.360729818658985, 110.30000001192093, 1.2290058650000006E7] returning empty list! this might break things
-[02Oct2025 00:19:47.378] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8592125650000006E7, 105.03368120863158, 202.83172191950382] -> [18.40517406809565, 110.30000001192093, 1.2290058650000006E7] returning empty list! this might break things
-[02Oct2025 00:19:52.427] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8592125650000006E7, 105.03427043541377, 188.8485692010457] -> [13.917145587545617, 110.30000001192093, 1.2290058650000006E7] returning empty list! this might break things
-[02Oct2025 00:19:57.428] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8592125650000006E7, 105.03429710452953, 174.6314320319528] -> [9.304106581997855, 110.30000001192093, 1.2290058650000006E7] returning empty list! this might break things
-[02Oct2025 00:20:02.478] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8592125650000006E7, 105.03429455055374, 160.22762760418357] -> [4.628169218929971, 110.30000001192093, 1.2290058650000006E7] returning empty list! this might break things
-[02Oct2025 00:20:07.526] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8592125650000006E7, 105.03430573216353, 145.81823178075655] -> [-0.04807867274744804, 110.30000001192093, 1.2290058650000006E7] returning empty list! this might break things
-[02Oct2025 00:20:12.529] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8592125650000006E7, 105.0342946511511, 131.55142515051068] -> [-4.680411526081597, 110.30000001192093, 1.2290058650000006E7] returning empty list! this might break things
-[02Oct2025 00:20:17.577] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8592125650000006E7, 101.96106753120861, 117.13214708018005] -> [-9.329345622179543, 110.30000001192093, 1.2290058650000006E7] returning empty list! this might break things
-[02Oct2025 00:20:22.578] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8592125650000006E7, 101.93431035290982, 102.8645203836163] -> [-13.958735759489667, 110.30000001192093, 1.2290058650000006E7] returning empty list! this might break things
-[02Oct2025 00:20:27.625] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8592125650000006E7, 101.33032214202747, 88.50147391009033] -> [-18.618901223955188, 110.30000001192093, 1.2290058650000006E7] returning empty list! this might break things
-[02Oct2025 00:20:32.674] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8592125650000006E7, 97.47483998444395, 74.07991772415936] -> [-23.260977913705144, 110.30000001192093, 1.2290058650000006E7] returning empty list! this might break things
-[02Oct2025 00:20:37.676] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8592125650000006E7, 87.65021979048694, 59.83016550066769] -> [-27.785595567045245, 110.30000001192093, 1.2290058650000006E7] returning empty list! this might break things
-[02Oct2025 00:20:42.678] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8592125650000006E7, 80.22496927982081, 46.25475280257761] -> [-34.30292121794585, 110.30000001192093, 1.2290058650000006E7] returning empty list! this might break things
-[02Oct2025 00:20:47.678] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8592125650000006E7, 78.09951522230206, 32.90630371766984] -> [-41.14800021898512, 110.30000001192093, 1.2290058650000006E7] returning empty list! this might break things
-[02Oct2025 00:20:52.678] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8592125650000006E7, 68.14573240821375, 19.506390803385937] -> [-47.92214266084859, 110.30000001192093, 1.2290058650000006E7] returning empty list! this might break things
-[02Oct2025 00:20:57.728] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8592125650000006E7, 65.96292452251636, 9.924686647951603] -> [-52.9684332460165, 110.30000001192093, 1.2290058650000006E7] returning empty list! this might break things
-[02Oct2025 00:49:55.984] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8497914650000006E7, 65.0, 227.8249498642981] -> [392.1837104652077, 66.88486187036386, 1.2290049650000006E7] returning empty list! this might break things
-[02Oct2025 00:50:01.034] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8497914650000006E7, 65.0, 227.79727245867252] -> [392.18244638852775, 66.80130172511882, 1.2290049650000006E7] returning empty list! this might break things
-[02Oct2025 02:44:27.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: natasha fell from a high place
-[02Oct2025 03:03:45.228] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: natasha lost connection: Disconnected
-[02Oct2025 03:03:45.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: natasha left the game
+[04Oct2025 02:14:20.675] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[04Oct2025 02:14:20.681] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.16 by Ubuntu; OS Linux arch amd64 version 6.8.0-1030-azure
+[04Oct2025 02:14:21.979] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[04Oct2025 02:14:22.039] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Server1/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[04Oct2025 02:14:22.401] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server1/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[04Oct2025 02:14:22.402] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server1/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[04Oct2025 02:14:22.404] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server1/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[04Oct2025 02:14:22.405] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server1/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[04Oct2025 02:14:23.017] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 33 dependencies adding them to mods collection
+[04Oct2025 02:14:25.369] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[04Oct2025 02:14:25.499] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[04Oct2025 02:14:25.656] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 83 options available, 0 override(s) found
+[04Oct2025 02:14:25.667] [main/WARN] [mixin/]: Reference map 'morevillagers-forge-forge-refmap.json' for morevillagers.mixins.json could not be read. If this is a development environment you can ignore this message
+[04Oct2025 02:14:25.747] [main/WARN] [mixin/]: Reference map 'eureka-1201-forge-refmap.json' for vs_eureka.mixins.json could not be read. If this is a development environment you can ignore this message
+[04Oct2025 02:14:25.751] [main/WARN] [mixin/]: Reference map 'mixins.trackwork.refmap.json' for trackwork.mixins.json could not be read. If this is a development environment you can ignore this message
+[04Oct2025 02:14:26.786] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/Gui for invalid dist DEDICATED_SERVER
+[04Oct2025 02:14:26.787] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/Gui (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/Gui for invalid dist DEDICATED_SERVER)
+[04Oct2025 02:14:26.787] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.Gui was not found mixins.prehistoricfauna.json:GuiMixin
+[04Oct2025 02:14:27.125] [main/WARN] [mixin/]: Error loading class: noobanidus/mods/lootr/config/ConfigManager (java.lang.ClassNotFoundException: noobanidus.mods.lootr.config.ConfigManager)
+[04Oct2025 02:14:27.126] [main/WARN] [mixin/]: @Mixin target noobanidus.mods.lootr.config.ConfigManager was not found quark_integrations.mixins.json:lootr.ConfigManagerMixin
+[04Oct2025 02:14:27.255] [main/WARN] [mixin/]: Error loading class: tschipp/carryon/common/carry/PickupHandler (java.lang.ClassNotFoundException: tschipp.carryon.common.carry.PickupHandler)
+[04Oct2025 02:14:27.255] [main/WARN] [mixin/]: @Mixin target tschipp.carryon.common.carry.PickupHandler was not found fossil_forge.mixins.json:PickupHandlerMixin
+[04Oct2025 02:14:27.523] [main/WARN] [mixin/]: Error loading class: dan200/computercraft/client/render/CustomLecternRenderer (java.lang.ClassNotFoundException: dan200.computercraft.client.render.CustomLecternRenderer)
+[04Oct2025 02:14:27.526] [main/WARN] [mixin/]: Error loading class: dan200/computercraft/shared/peripheral/speaker/SpeakerPosition (java.lang.ClassNotFoundException: dan200.computercraft.shared.peripheral.speaker.SpeakerPosition)
+[04Oct2025 02:14:27.528] [main/WARN] [mixin/]: Error loading class: dan200/computercraft/shared/turtle/core/TurtleBrain (java.lang.ClassNotFoundException: dan200.computercraft.shared.turtle.core.TurtleBrain)
+[04Oct2025 02:14:27.530] [main/WARN] [mixin/]: Error loading class: dan200/computercraft/shared/turtle/core/TurtleMoveCommand (java.lang.ClassNotFoundException: dan200.computercraft.shared.turtle.core.TurtleMoveCommand)
+[04Oct2025 02:14:27.532] [main/WARN] [mixin/]: Error loading class: dan200/computercraft/shared/peripheral/modem/wireless/WirelessNetwork (java.lang.ClassNotFoundException: dan200.computercraft.shared.peripheral.modem.wireless.WirelessNetwork)
+[04Oct2025 02:14:27.598] [main/WARN] [mixin/]: Error loading class: rbasamoyai/createbigcannons/munitions/AbstractCannonProjectile (java.lang.ClassNotFoundException: rbasamoyai.createbigcannons.munitions.AbstractCannonProjectile)
+[04Oct2025 02:14:27.602] [main/WARN] [mixin/]: Error loading class: rbasamoyai/createbigcannons/utils/CBCUtils (java.lang.ClassNotFoundException: rbasamoyai.createbigcannons.utils.CBCUtils)
+[04Oct2025 02:14:27.604] [main/WARN] [mixin/]: Error loading class: rbasamoyai/createbigcannons/cannon_control/fixed_cannon_mount/FixedCannonMountBlockEntity$FixedCannonMountScrollValueBehaviour (java.lang.ClassNotFoundException: rbasamoyai.createbigcannons.cannon_control.fixed_cannon_mount.FixedCannonMountBlockEntity$FixedCannonMountScrollValueBehaviour)
+[04Oct2025 02:14:27.608] [main/WARN] [mixin/]: @Mixin target rbasamoyai.createbigcannons.cannon_control.fixed_cannon_mount.FixedCannonMountBlockEntity$FixedCannonMountScrollValueBehaviour was not found valkyrienskies-common.mixins.json:mod_compat.create_big_cannons.MixinFCMSVB
+[04Oct2025 02:14:27.610] [main/WARN] [mixin/]: Error loading class: rbasamoyai/createbigcannons/cannon_control/contraption/PitchOrientedContraptionEntity (java.lang.ClassNotFoundException: rbasamoyai.createbigcannons.cannon_control.contraption.PitchOrientedContraptionEntity)
+[04Oct2025 02:14:27.615] [main/WARN] [mixin/]: Error loading class: rbasamoyai/createbigcannons/network/ServerboundSetFixedCannonMountValuePacket (java.lang.ClassNotFoundException: rbasamoyai.createbigcannons.network.ServerboundSetFixedCannonMountValuePacket)
+[04Oct2025 02:14:27.616] [main/WARN] [mixin/]: @Mixin target rbasamoyai.createbigcannons.network.ServerboundSetFixedCannonMountValuePacket was not found valkyrienskies-common.mixins.json:mod_compat.create_big_cannons.MixinSSFCMVP
+[04Oct2025 02:14:27.618] [main/WARN] [mixin/]: Error loading class: dev/ftb/mods/ftbchunks/data/ClaimedChunkManagerImpl (java.lang.ClassNotFoundException: dev.ftb.mods.ftbchunks.data.ClaimedChunkManagerImpl)
+[04Oct2025 02:14:27.620] [main/WARN] [mixin/]: Error loading class: com/jamieswhiteshirt/reachentityattributes/ReachEntityAttributes (java.lang.ClassNotFoundException: com.jamieswhiteshirt.reachentityattributes.ReachEntityAttributes)
+[04Oct2025 02:14:27.622] [main/WARN] [mixin/]: Error loading class: li/cil/tis3d/common/entity/InfraredPacketEntity (java.lang.ClassNotFoundException: li.cil.tis3d.common.entity.InfraredPacketEntity)
+[04Oct2025 02:14:27.658] [main/WARN] [mixin/]: Error loading class: blusunrize/immersiveengineering/common/gui/BlockEntityInventory (java.lang.ClassNotFoundException: blusunrize.immersiveengineering.common.gui.BlockEntityInventory)
+[04Oct2025 02:14:27.661] [main/WARN] [mixin/]: Error loading class: net/dries007/tfc/world/TFCChunkGenerator (java.lang.ClassNotFoundException: net.dries007.tfc.world.TFCChunkGenerator)
+[04Oct2025 02:14:27.662] [main/WARN] [mixin/]: Error loading class: cofh/core/block/entity/TileCoFH (java.lang.ClassNotFoundException: cofh.core.block.entity.TileCoFH)
+[04Oct2025 02:14:27.664] [main/WARN] [mixin/]: Error loading class: dev/su5ed/mffs/util/FrequencyGrid (java.lang.ClassNotFoundException: dev.su5ed.mffs.util.FrequencyGrid)
+[04Oct2025 02:14:27.666] [main/WARN] [mixin/]: Error loading class: dev/su5ed/mffs/network/ClientPacketHandler (java.lang.ClassNotFoundException: dev.su5ed.mffs.network.ClientPacketHandler)
+[04Oct2025 02:14:27.669] [main/WARN] [mixin/]: Error loading class: me/desht/modularrouters/container/RouterMenu (java.lang.ClassNotFoundException: me.desht.modularrouters.container.RouterMenu)
+[04Oct2025 02:14:27.782] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/mojang/blaze3d/vertex/VertexFormat$Mode for invalid dist DEDICATED_SERVER
+[04Oct2025 02:14:27.783] [main/WARN] [mixin/]: Error loading class: com/mojang/blaze3d/vertex/VertexFormat$Mode (java.lang.RuntimeException: Attempted to load class com/mojang/blaze3d/vertex/VertexFormat$Mode for invalid dist DEDICATED_SERVER)
+[04Oct2025 02:14:27.922] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[04Oct2025 02:14:34.871] [modloading-worker-0/INFO] [snownee.kiwi.Kiwi/]: Kiwi Customization is enabled
+[04Oct2025 02:14:35.168] [modloading-worker-0/INFO] [snownee.kiwi.Kiwi/INIT]: Processing 6 KiwiModule annotations
+[04Oct2025 02:14:35.663] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[04Oct2025 02:14:35.664] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[04Oct2025 02:14:36.039] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 8.3.
+[04Oct2025 02:14:36.444] [modloading-worker-0/INFO] [zeta/]: Doing super early config setup for zeta
+[04Oct2025 02:14:36.526] [modloading-worker-0/INFO] [quark/]: Initializing TerraBlender underground biome compat
+[04Oct2025 02:14:36.660] [modloading-worker-0/INFO] [thedarkcolour.kotlinforforge.test.KotlinForForge/]: Kotlin For Forge Enabled!
+[04Oct2025 02:14:36.715] [modloading-worker-0/WARN] [mixin/]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=2 on valkyrienskies-common.mixins.json:mod_compat.create.block.MixinRedstoneContactBlock::handler$zmg000$injectTick exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[04Oct2025 02:14:36.781] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[04Oct2025 02:14:37.126] [modloading-worker-0/INFO] [quark-zeta/]: Discovered 164 modules to load.
+[04Oct2025 02:14:37.127] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Abacus...
+[04Oct2025 02:14:37.139] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Adjustable Chat...
+[04Oct2025 02:14:37.139] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Ambient Discs...
+[04Oct2025 02:14:37.143] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Ancient Tomes...
+[04Oct2025 02:14:37.157] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Ancient Wood...
+[04Oct2025 02:14:37.183] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Armed Armor Stands...
+[04Oct2025 02:14:37.183] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Auto Walk Keybind...
+[04Oct2025 02:14:37.186] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Automatic Recipe Unlock...
+[04Oct2025 02:14:37.186] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Automatic Tool Restock...
+[04Oct2025 02:14:37.192] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Azalea Wood...
+[04Oct2025 02:14:37.193] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Back Button Keybind...
+[04Oct2025 02:14:37.194] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Backpack...
+[04Oct2025 02:14:37.202] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Beacon Redirection...
+[04Oct2025 02:14:37.203] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Better Elytra Rocket...
+[04Oct2025 02:14:37.205] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Big Stone Clusters...
+[04Oct2025 02:14:37.223] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Blossom Trees...
+[04Oct2025 02:14:37.225] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Bottled Cloud...
+[04Oct2025 02:14:37.231] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Buckets Show Inhabitants...
+[04Oct2025 02:14:37.234] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Camera...
+[04Oct2025 02:14:37.244] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Campfires Boost Elytra...
+[04Oct2025 02:14:37.245] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Celebratory Lamps...
+[04Oct2025 02:14:37.245] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Chains Connect Blocks...
+[04Oct2025 02:14:37.245] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Chest Searching...
+[04Oct2025 02:14:37.246] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Chorus Vegetation...
+[04Oct2025 02:14:37.253] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Chute...
+[04Oct2025 02:14:37.254] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Climate Control Remover...
+[04Oct2025 02:14:37.257] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Color Runes...
+[04Oct2025 02:14:37.261] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Compasses Work Everywhere...
+[04Oct2025 02:14:37.266] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Compressed Blocks...
+[04Oct2025 02:14:37.269] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Coral On Cactus...
+[04Oct2025 02:14:37.270] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Corundum...
+[04Oct2025 02:14:37.298] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Crabs...
+[04Oct2025 02:14:37.307] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Crafter...
+[04Oct2025 02:14:37.313] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Crate...
+[04Oct2025 02:14:37.318] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Diamond Repair...
+[04Oct2025 02:14:37.318] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Dispensers Place Blocks...
+[04Oct2025 02:14:37.319] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Double Door Opening...
+[04Oct2025 02:14:37.323] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Dragon Scales...
+[04Oct2025 02:14:37.324] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Duskbound Blocks...
+[04Oct2025 02:14:37.324] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Dyeable Item Frames...
+[04Oct2025 02:14:37.325] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Easy Transfering...
+[04Oct2025 02:14:37.329] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Elytra Indicator...
+[04Oct2025 02:14:37.330] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Emotes...
+[04Oct2025 02:14:37.330] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Enchantment Predicates...
+[04Oct2025 02:14:37.334] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Enchantments Begone...
+[04Oct2025 02:14:37.335] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Ender Watcher...
+[04Oct2025 02:14:37.338] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Endermosh Music Disc...
+[04Oct2025 02:14:37.338] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Enhanced Ladders...
+[04Oct2025 02:14:37.342] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Expanded Item Interactions...
+[04Oct2025 02:14:37.353] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Fairy Rings...
+[04Oct2025 02:14:37.358] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Fallen Logs...
+[04Oct2025 02:14:37.359] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Feeding Trough...
+[04Oct2025 02:14:37.370] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Forgotten...
+[04Oct2025 02:14:37.383] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Foxhound...
+[04Oct2025 02:14:37.386] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Framed Glass...
+[04Oct2025 02:14:37.389] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Game Nerfs...
+[04Oct2025 02:14:37.389] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Glass Item Frame...
+[04Oct2025 02:14:37.396] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Glass Shard...
+[04Oct2025 02:14:37.401] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Glimmering Weald...
+[04Oct2025 02:14:37.427] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Gold Bars...
+[04Oct2025 02:14:37.427] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Gold Tools Have Fortune...
+[04Oct2025 02:14:37.437] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Grab Chickens...
+[04Oct2025 02:14:37.439] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Grate...
+[04Oct2025 02:14:37.455] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Gravisand...
+[04Oct2025 02:14:37.459] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Greener Grass...
+[04Oct2025 02:14:37.466] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Hedges...
+[04Oct2025 02:14:37.470] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Hoe Harvesting...
+[04Oct2025 02:14:37.474] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Hollow Logs...
+[04Oct2025 02:14:37.475] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Horses Swim...
+[04Oct2025 02:14:37.476] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Hotbar Changer...
+[04Oct2025 02:14:37.476] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Improved Sponges...
+[04Oct2025 02:14:37.477] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Improved Tooltips...
+[04Oct2025 02:14:37.479] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Industrial Palette...
+[04Oct2025 02:14:37.480] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Inventory Sorting...
+[04Oct2025 02:14:37.482] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Iron Rod...
+[04Oct2025 02:14:37.496] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Item Sharing...
+[04Oct2025 02:14:37.501] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Japanese Palette...
+[04Oct2025 02:14:37.502] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Leaf Carpet...
+[04Oct2025 02:14:37.502] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Lock Rotation...
+[04Oct2025 02:14:37.503] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Long Range Pick Block...
+[04Oct2025 02:14:37.504] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Magma Keeps Concrete Powder...
+[04Oct2025 02:14:37.507] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Magnets...
+[04Oct2025 02:14:37.510] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Map Washing...
+[04Oct2025 02:14:37.517] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Matrix Enchanting...
+[04Oct2025 02:14:37.539] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Metal Buttons...
+[04Oct2025 02:14:37.540] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Microcrafting Helper...
+[04Oct2025 02:14:37.541] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Midori...
+[04Oct2025 02:14:37.541] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Monster Box...
+[04Oct2025 02:14:37.541] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Banner Layers...
+[04Oct2025 02:14:37.542] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Brick Types...
+[04Oct2025 02:14:37.542] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Mud Blocks...
+[04Oct2025 02:14:37.543] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Note Block Sounds...
+[04Oct2025 02:14:37.544] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Potted Plants...
+[04Oct2025 02:14:37.544] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Villagers...
+[04Oct2025 02:14:37.545] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Narrator Readout...
+[04Oct2025 02:14:37.546] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Nether Brick Fence Gate...
+[04Oct2025 02:14:37.550] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Nether Obsidian Spikes...
+[04Oct2025 02:14:37.550] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module New Stone Types...
+[04Oct2025 02:14:37.557] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module No Durability On Cosmetics...
+[04Oct2025 02:14:37.557] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module No More Lava Pockets...
+[04Oct2025 02:14:37.559] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Obsidian Plate...
+[04Oct2025 02:14:37.559] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Overlay Shader...
+[04Oct2025 02:14:37.566] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Parrot Eggs...
+[04Oct2025 02:14:37.567] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Pat The Dogs...
+[04Oct2025 02:14:37.568] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Pathfinder Maps...
+[04Oct2025 02:14:37.572] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Permafrost...
+[04Oct2025 02:14:37.579] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Petals On Water...
+[04Oct2025 02:14:37.580] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Pickarang...
+[04Oct2025 02:14:37.586] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Pig Litters...
+[04Oct2025 02:14:37.592] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Pipes...
+[04Oct2025 02:14:37.598] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Pistons Move Tile Entities...
+[04Oct2025 02:14:37.600] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Poison Potato Usage...
+[04Oct2025 02:14:37.601] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Quick Armor Swapping...
+[04Oct2025 02:14:37.601] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Rainbow Lamps...
+[04Oct2025 02:14:37.602] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Raw Metal Bricks...
+[04Oct2025 02:14:37.603] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Reacharound Placing...
+[04Oct2025 02:14:37.604] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Redstone Randomizer...
+[04Oct2025 02:14:37.606] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Renewable Spore Blossoms...
+[04Oct2025 02:14:37.610] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Replace Scaffolding...
+[04Oct2025 02:14:37.611] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Rope...
+[04Oct2025 02:14:37.615] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Safer Creatures...
+[04Oct2025 02:14:37.620] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Seed Pouch...
+[04Oct2025 02:14:37.622] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Shear Vines...
+[04Oct2025 02:14:37.640] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Shiba...
+[04Oct2025 02:14:37.643] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Shingles...
+[04Oct2025 02:14:37.643] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Shulker Packing...
+[04Oct2025 02:14:37.644] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Simple Harvest...
+[04Oct2025 02:14:37.645] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Skull Pikes...
+[04Oct2025 02:14:37.650] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Slabs To Blocks...
+[04Oct2025 02:14:37.651] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Slime In A Bucket...
+[04Oct2025 02:14:37.652] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Slimes To Magma Cubes...
+[04Oct2025 02:14:37.655] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Snow Golem Player Heads...
+[04Oct2025 02:14:37.656] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Soul Candles...
+[04Oct2025 02:14:37.656] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Soul Sandstone...
+[04Oct2025 02:14:37.657] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Spawner Replacer...
+[04Oct2025 02:14:37.657] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Spiral Spires...
+[04Oct2025 02:14:37.659] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Stonelings...
+[04Oct2025 02:14:37.663] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Stools...
+[04Oct2025 02:14:37.663] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Sturdy Stone...
+[04Oct2025 02:14:37.664] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Thatch...
+[04Oct2025 02:14:37.667] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Tiny Potato...
+[04Oct2025 02:14:37.669] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Torch Arrow...
+[04Oct2025 02:14:37.678] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Toretoise...
+[04Oct2025 02:14:37.679] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Totem Of Holding...
+[04Oct2025 02:14:37.682] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Trowel...
+[04Oct2025 02:14:37.684] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Usage Ticker...
+[04Oct2025 02:14:37.686] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Uses For Curses...
+[04Oct2025 02:14:37.688] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Utility Recipes...
+[04Oct2025 02:14:37.689] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Variant Animal Textures...
+[04Oct2025 02:14:37.690] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Variant Bookshelves...
+[04Oct2025 02:14:37.691] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Variant Chests...
+[04Oct2025 02:14:37.710] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Variant Furnaces...
+[04Oct2025 02:14:37.727] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Variant Ladders...
+[04Oct2025 02:14:37.728] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Variant Selector...
+[04Oct2025 02:14:37.733] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Vertical Planks...
+[04Oct2025 02:14:37.734] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Vertical Slabs...
+[04Oct2025 02:14:37.778] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Vexes Die With Their Masters...
+[04Oct2025 02:14:37.778] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Villager Rerolling Rework...
+[04Oct2025 02:14:37.786] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Villagers Follow Emeralds...
+[04Oct2025 02:14:37.792] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Wooden Posts...
+[04Oct2025 02:14:37.794] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Wool Shuts Up Minecarts...
+[04Oct2025 02:14:37.795] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Wraith...
+[04Oct2025 02:14:37.801] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Zombie Villagers On Normal...
+[04Oct2025 02:14:37.804] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Stone Variants...
+[04Oct2025 02:14:37.805] [modloading-worker-0/INFO] [quark-zeta/]: Constructed 164 modules.
+[04Oct2025 02:14:37.929] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id fossil:cap_channel/537e4f78f24b30e4bee5892e8d9314fa
+[04Oct2025 02:14:37.930] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id fossil:sync_channel/f7d73d83d6fa3fb99fb754f57f7238af
+[04Oct2025 02:14:37.945] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id fossil:sync_channel/5ecf814711a7357f8ebd58d771f05139
+[04Oct2025 02:14:37.951] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id fossil:sync_channel/2ae61e410df635b2b2c2d4eaa7b7afcb
+[04Oct2025 02:14:37.954] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id fossil:sync_channel/600dc9ad56393757ae8315ba075af416
+[04Oct2025 02:14:37.955] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id fossil:sync_channel/ec18fa987d5331379c9156102188220c
+[04Oct2025 02:14:37.960] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id fossil:sync_channel/b0228010ee3d3689beb49186e8009925
+[04Oct2025 02:14:37.962] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id fossil:sync_channel/ed688e568fc63151a34c0f912fce9d27
+[04Oct2025 02:14:37.966] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id fossil:sync_channel/8aaf614d5e2d39dd9e136e8c430145a9
+[04Oct2025 02:14:37.967] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id fossil:sync_channel/08e9f40b177134efbc5eb99e2ad6bcb5
+[04Oct2025 02:14:37.970] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id fossil:sync_channel/531d15ea7fd13018964a31b3ccac540a
+[04Oct2025 02:14:38.164] [modloading-worker-0/INFO] [quark-zeta/]: Doing super early config setup for quark
+[04Oct2025 02:14:39.920] [main/INFO] [snownee.kiwi.Kiwi/INIT]: Module [xkdeco:entity_types] initialized
+[04Oct2025 02:14:39.922] [main/INFO] [snownee.kiwi.Kiwi/INIT]: 		block_entity_type: 5
+[04Oct2025 02:14:39.923] [main/INFO] [snownee.kiwi.Kiwi/INIT]: Module [kiwi:block_templates] initialized
+[04Oct2025 02:14:39.923] [main/INFO] [snownee.kiwi.Kiwi/INIT]: 		kiwi:block_template: 2
+[04Oct2025 02:14:39.923] [main/INFO] [snownee.kiwi.Kiwi/INIT]: Module [kiwi:block_components] initialized
+[04Oct2025 02:14:39.924] [main/INFO] [snownee.kiwi.Kiwi/INIT]: 		kiwi:block_component: 10
+[04Oct2025 02:14:39.924] [main/INFO] [snownee.kiwi.Kiwi/INIT]: Module [kiwi:data] initialized
+[04Oct2025 02:14:39.924] [main/INFO] [snownee.kiwi.Kiwi/INIT]: 		recipe_serializer: 3
+[04Oct2025 02:14:39.924] [main/INFO] [snownee.kiwi.Kiwi/INIT]: Module [kiwi:item_templates] initialized
+[04Oct2025 02:14:39.924] [main/INFO] [snownee.kiwi.Kiwi/INIT]: 		kiwi:item_template: 3
+[04Oct2025 02:14:43.409] [main/ERROR] [snownee.kiwi.Kiwi/]: Failed to parse xkdeco:kiwi/block/ebony_wardrobe.yaml: DynamicException[Unknown template: xkdeco:wardrobe; Not a map: xkdeco:wardrobe Optional.empty]
+[04Oct2025 02:14:43.421] [main/ERROR] [snownee.kiwi.Kiwi/]: Failed to parse xkdeco:kiwi/block/full_glass_wardrobe.yaml: DynamicException[Unknown template: xkdeco:wardrobe; Not a map: xkdeco:wardrobe Optional.empty]
+[04Oct2025 02:14:43.423] [main/ERROR] [snownee.kiwi.Kiwi/]: Failed to parse xkdeco:kiwi/block/glass_wardrobe.yaml: DynamicException[Unknown template: xkdeco:wardrobe; Not a map: xkdeco:wardrobe Optional.empty]
+[04Oct2025 02:14:43.436] [main/ERROR] [snownee.kiwi.Kiwi/]: Failed to parse xkdeco:kiwi/block/iron_wardrobe.yaml: DynamicException[Unknown template: xkdeco:wardrobe; Not a map: xkdeco:wardrobe Optional.empty]
+[04Oct2025 02:14:43.444] [main/ERROR] [snownee.kiwi.Kiwi/]: Failed to parse xkdeco:kiwi/block/mahogany_wardrobe.yaml: DynamicException[Unknown template: xkdeco:wardrobe; Not a map: xkdeco:wardrobe Optional.empty]
+[04Oct2025 02:14:43.483] [main/ERROR] [snownee.kiwi.Kiwi/]: Failed to parse xkdeco:kiwi/block/varnished_wardrobe.yaml: DynamicException[Unknown template: xkdeco:wardrobe; Not a map: xkdeco:wardrobe Optional.empty]
+[04Oct2025 02:14:43.507] [main/WARN] [snownee.kiwi.Kiwi/]: Shape xkdeco:wooden_big_table is not registered
+[04Oct2025 02:14:43.566] [main/WARN] [snownee.kiwi.Kiwi/]: Shape xkdeco:roof_ridge is not registered
+[04Oct2025 02:14:43.587] [main/WARN] [snownee.kiwi.Kiwi/]: Shape xkdeco:roof_ridge is not registered
+[04Oct2025 02:14:43.617] [main/WARN] [snownee.kiwi.Kiwi/]: Shape xkdeco:wooden_awning_window is not registered
+[04Oct2025 02:14:43.634] [main/WARN] [snownee.kiwi.Kiwi/]: Shape xkdeco:wooden_awning_window is not registered
+[04Oct2025 02:14:43.985] [main/WARN] [snownee.kiwi.Kiwi/]: Shape xkdeco:wooden_desk is not registered
+[04Oct2025 02:14:43.986] [main/WARN] [snownee.kiwi.Kiwi/]: Shape xkdeco:roof_ridge is not registered
+[04Oct2025 02:14:44.010] [main/WARN] [snownee.kiwi.Kiwi/]: Shape xkdeco:wooden_table is not registered
+[04Oct2025 02:14:44.026] [main/WARN] [snownee.kiwi.Kiwi/]: Shape xkdeco:roofed_lamp is not registered
+[04Oct2025 02:14:44.046] [main/WARN] [snownee.kiwi.Kiwi/]: Shape xkdeco:wooden_desk is not registered
+[04Oct2025 02:14:44.048] [main/WARN] [snownee.kiwi.Kiwi/]: Shape xkdeco:wooden_window is not registered
+[04Oct2025 02:14:44.050] [main/WARN] [snownee.kiwi.Kiwi/]: Shape xkdeco:wooden_awning_window is not registered
+[04Oct2025 02:14:44.060] [main/WARN] [snownee.kiwi.Kiwi/]: Shape xkdeco:roof_ridge is not registered
+[04Oct2025 02:14:44.074] [main/WARN] [snownee.kiwi.Kiwi/]: Shape xkdeco:wooden_desk is not registered
+[04Oct2025 02:14:44.077] [main/WARN] [snownee.kiwi.Kiwi/]: Shape xkdeco:wooden_big_table is not registered
+[04Oct2025 02:14:44.077] [main/WARN] [snownee.kiwi.Kiwi/]: Shape xkdeco:wooden_table is not registered
+[04Oct2025 02:14:44.081] [main/WARN] [snownee.kiwi.Kiwi/]: Shape xkdeco:wooden_window is not registered
+[04Oct2025 02:14:44.090] [main/WARN] [snownee.kiwi.Kiwi/]: Shape xkdeco:wooden_window is not registered
+[04Oct2025 02:14:44.112] [main/WARN] [snownee.kiwi.Kiwi/]: Shape xkdeco:wooden_big_table is not registered
+[04Oct2025 02:14:44.154] [main/WARN] [snownee.kiwi.Kiwi/]: Shape xkdeco:roof_ridge is not registered
+[04Oct2025 02:14:44.175] [main/WARN] [snownee.kiwi.Kiwi/]: Shape xkdeco:wooden_table is not registered
+[04Oct2025 02:14:44.185] [main/WARN] [snownee.kiwi.Kiwi/]: Shape xkdeco:roof_ridge is not registered
+[04Oct2025 02:14:46.875] [Thread-1/INFO] [quark-zeta/]: About to refresh quark's config, looking for better thread than 'Thread-1'...
+[04Oct2025 02:14:46.878] [Thread-1/WARN] [quark-zeta/]: Using thread 'Thread-1' instead of the server thread
+[04Oct2025 02:14:46.878] [Thread-1/INFO] [quark-zeta/]: quark's config is 'BEFORE_INIT', ignoring config refresh. Current thread: Thread-1
+[04Oct2025 02:14:46.882] [Thread-1/INFO] [quark-zeta/]: About to refresh quark's config, looking for better thread than 'Thread-1'...
+[04Oct2025 02:14:46.882] [Thread-1/WARN] [quark-zeta/]: Using thread 'Thread-1' instead of the server thread
+[04Oct2025 02:14:46.883] [Thread-1/INFO] [quark-zeta/]: quark's config is 'BEFORE_INIT', ignoring config refresh. Current thread: Thread-1
+[04Oct2025 02:14:47.070] [main/INFO] [zeta/]: Common setup: Performing initial refresh of zeta's config on thread 'main'
+[04Oct2025 02:14:47.070] [main/INFO] [zeta/]: 'zeta' is enabling Zeta's piston structure resolver.
+[04Oct2025 02:14:47.072] [main/INFO] [zeta/]: Waiting for server start before accepting filewatcher changes to zeta's config
+[04Oct2025 02:14:47.077] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[04Oct2025 02:14:47.078] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[04Oct2025 02:14:47.078] [main/INFO] [terrablender/]: Registered region quark:biome_provider to index 1 for type OVERWORLD
+[04Oct2025 02:14:47.078] [main/INFO] [quark-zeta/]: Common setup: Performing initial refresh of quark's config on thread 'main'
+[04Oct2025 02:14:47.098] [main/INFO] [quark-zeta/]: Waiting for server start before accepting filewatcher changes to quark's config
+[04Oct2025 02:14:47.124] [main/INFO] [terrablender/]: Registered region fossil:overworld to index 2 for type OVERWORLD
+[04Oct2025 02:14:47.251] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [copycats] Starting version check at https://raw.githubusercontent.com/copycats-plus/copycats/multiloader/update.json
+[04Oct2025 02:14:47.573] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [copycats] Found status: AHEAD Current: 2.2.2+mc.1.20.1-forge Target: null
+[04Oct2025 02:14:47.573] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[04Oct2025 02:14:47.781] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[04Oct2025 02:14:47.782] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easy_villagers] Starting version check at https://update.maxhenkel.de/forge/easy_villagers
+[04Oct2025 02:14:48.902] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easy_villagers] Found status: OUTDATED Current: 1.20.1-1.1.33 Target: 1.20.1-1.1.35
+[04Oct2025 02:14:48.903] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Starting version check at https://api.modrinth.com/updates/flywheel/forge_updates.json
+[04Oct2025 02:14:49.138] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Found status: BETA Current: 0.6.11-13 Target: null
+[04Oct2025 02:14:53.540] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[04Oct2025 02:14:58.285] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Server1/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23163!/assets/.mcassetsroot' uses unexpected schema
+[04Oct2025 02:14:58.285] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Server1/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23163!/data/.mcassetsroot' uses unexpected schema
+[04Oct2025 02:15:00.920] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe jurassic_additions:tranquilizer_gun_recipe
+com.google.gson.JsonSyntaxException: Unknown item 'jurassic_additions:tranquilizer_gun'
+	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23168!/:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23168!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151274_(ShapedRecipe.java:286) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:311) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:301) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23) ~[forge-1.20.1-47.3.7-universal.jar%23168!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:171) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[04Oct2025 02:15:00.952] [main/WARN] [quark-zeta/]: Non-existent flag stone_pavement being used
+[04Oct2025 02:15:00.963] [main/WARN] [quark-zeta/]: Non-existent flag varian_bookshelves being used
+[04Oct2025 02:15:01.007] [main/WARN] [quark-zeta/]: Non-existent flag stone_pavement being used
+[04Oct2025 02:15:01.007] [main/WARN] [quark-zeta/]: Non-existent flag stone_pavement being used
+[04Oct2025 02:15:01.008] [main/WARN] [quark-zeta/]: Non-existent flag stone_pavement being used
+[04Oct2025 02:15:01.011] [main/WARN] [quark-zeta/]: Non-existent flag stone_pavement being used
+[04Oct2025 02:15:01.024] [main/WARN] [quark-zeta/]: Non-existent flag stone_pavement being used
+[04Oct2025 02:15:01.026] [main/WARN] [quark-zeta/]: Non-existent flag stone_pavement being used
+[04Oct2025 02:15:01.026] [main/WARN] [quark-zeta/]: Non-existent flag stone_pavement being used
+[04Oct2025 02:15:01.027] [main/WARN] [quark-zeta/]: Non-existent flag stone_pavement being used
+[04Oct2025 02:15:01.030] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe createdieselgenerators:smithing/chemical_sprayer_lighter
+com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
+	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:169) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[04Oct2025 02:15:01.035] [main/WARN] [quark-zeta/]: Non-existent flag varian_bookshelves being used
+[04Oct2025 02:15:01.058] [main/WARN] [quark-zeta/]: Non-existent flag varian_bookshelves being used
+[04Oct2025 02:15:01.065] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 29 recipes
+[04Oct2025 02:15:01.203] [main/INFO] [quark/]: [Automatic Recipe Unlock] Removed 3226 recipe advancements
+[04Oct2025 02:15:01.210] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 339 advancements
+[04Oct2025 02:15:01.217] [main/INFO] [superlord.prehistoricrevival.common.recipes.DNAAnalyzerRecipeJsonManager/]: Data loader for loot_tables/dna_analyzer loaded 27 jsons
+[04Oct2025 02:15:01.233] [main/INFO] [quark-zeta/]: Modified advancement minecraft:husbandry/wax_on with 3 patches
+[04Oct2025 02:15:01.233] [main/INFO] [quark-zeta/]: Modified advancement minecraft:adventure/kill_a_mob with 3 patches
+[04Oct2025 02:15:01.233] [main/INFO] [quark-zeta/]: Modified advancement minecraft:husbandry/bred_all_animals with 3 patches
+[04Oct2025 02:15:01.233] [main/INFO] [quark-zeta/]: Modified advancement minecraft:adventure/kill_all_mobs with 3 patches
+[04Oct2025 02:15:01.234] [main/INFO] [quark-zeta/]: Modified advancement minecraft:husbandry/balanced_diet with 2 patches
+[04Oct2025 02:15:01.234] [main/INFO] [quark-zeta/]: Modified advancement minecraft:nether/all_effects with 1 patches
+[04Oct2025 02:15:01.234] [main/INFO] [quark-zeta/]: Modified advancement minecraft:husbandry/wax_off with 3 patches
+[04Oct2025 02:15:01.234] [main/INFO] [quark-zeta/]: Modified advancement minecraft:adventure/adventuring_time with 1 patches
+[04Oct2025 02:15:01.234] [main/INFO] [quark-zeta/]: Modified advancement minecraft:nether/all_potions with 1 patches
+[04Oct2025 02:15:01.239] [main/INFO] [Fossils Archeology/]: Loaded 722 server animations for 65 entities
+[04Oct2025 02:15:01.255] [main/INFO] [Fossils Archeology/]: Loaded 1040 animation category entries for 65 entities
+[04Oct2025 02:15:01.260] [main/INFO] [Fossils Archeology/]: Loaded data for 58 entities
+[04Oct2025 02:15:01.269] [main/INFO] [Fossils Archeology/]: Loaded 10 variants
+[04Oct2025 02:15:01.272] [main/INFO] [superlord.prehistoricfauna.common.recipes.PaleontologyTableRecipeJsonManager/]: Data loader for prehistoricfauna/paleontology_table loaded 3 jsons
+[04Oct2025 02:15:05.956] [main/WARN] [org.valkyrienskies.mod.common.config.MassDatapackResolver/]: No specified tag 'minecraft:carpets' doesn't exist!
+[04Oct2025 02:15:06.084] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[04Oct2025 02:15:06.085] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[04Oct2025 02:15:06.085] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[04Oct2025 02:15:06.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[04Oct2025 02:15:06.250] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[04Oct2025 02:15:06.273] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[04Oct2025 02:15:06.358] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[04Oct2025 02:15:06.359] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[04Oct2025 02:15:06.359] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[04Oct2025 02:15:06.359] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[04Oct2025 02:15:06.437] [Server thread/INFO] [zeta/]: Server starting, accepting filewatcher changes for zeta's config
+[04Oct2025 02:15:06.437] [Server thread/INFO] [quark-zeta/]: Server starting, accepting filewatcher changes for quark's config
+[04Oct2025 02:15:06.775] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[04Oct2025 02:15:06.775] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[04Oct2025 02:15:06.776] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[04Oct2025 02:15:07.593] [Server thread/INFO] [org.valkyrienskies.core.impl.networking.VSNetworking/]: We are not using UDP, falling back to TCP
+[04Oct2025 02:15:12.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[04Oct2025 02:15:12.736] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[04Oct2025 02:15:13.782] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[04Oct2025 02:15:14.783] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[04Oct2025 02:15:15.784] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[04Oct2025 02:15:15.965] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Oct2025 02:15:16.047] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Oct2025 02:15:16.050] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Oct2025 02:15:16.059] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Oct2025 02:15:16.061] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Oct2025 02:15:16.078] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Oct2025 02:15:16.094] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Oct2025 02:15:16.097] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Oct2025 02:15:16.785] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[04Oct2025 02:15:17.146] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Oct2025 02:15:17.151] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Oct2025 02:15:17.609] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Oct2025 02:15:17.786] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[04Oct2025 02:15:18.091] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Oct2025 02:15:18.589] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 17%
+[04Oct2025 02:15:18.787] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[04Oct2025 02:15:19.089] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 80%
+[04Oct2025 02:15:19.229] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 6640 ms
+[04Oct2025 02:15:19.229] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (12.855s)! For help, type "help"
+[04Oct2025 02:15:19.268] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[04Oct2025 02:15:19.273] [Server thread/INFO] [superlord.prehistoricfauna.common.recipes.PaleontologyTableRecipeJsonManager/]: Registered 3 jsons with items!
+[04Oct2025 02:18:28.390] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: natasha[/127.83.77.37:50005] logged in with entity id 64 at (511.60645426416215, 145.0, 408.5646355254667)
+[04Oct2025 02:18:28.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: natasha joined the game
+[04Oct2025 02:18:30.794] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2471ms or 49 ticks behind
+[04Oct2025 02:19:54.088] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Morangg[/127.157.203.231:56137] logged in with entity id 1092 at (205.54707104835896, 63.0, 356.3127520097288)
+[04Oct2025 02:19:54.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Morangg joined the game
