@@ -9179,3 +9179,48 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [04Oct2025 03:03:54.892] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 7ca5405f-c725-4722-93db-099d077645f1 unwatched ships [536]
 [04Oct2025 03:05:23.880] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo def3
 [04Oct2025 03:05:23.896] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo def3
+[04Oct2025 03:06:24.367] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1781119 : 768127
+[04Oct2025 03:06:24.367] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1781120 : 768127
+[04Oct2025 03:06:24.367] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1781119 : 768128
+[04Oct2025 03:06:24.367] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1781120 : 768126
+[04Oct2025 03:06:24.367] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1781120 : 768128
+[04Oct2025 03:06:24.367] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1781121 : 768127
+[04Oct2025 03:06:24.367] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1781121 : 768128
+[04Oct2025 03:06:24.367] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1781120 : 768129
+[04Oct2025 03:06:24.374] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: ae6a79d9-941c-42b1-84be-c4b278c88a40 watched ships: [536]
+[04Oct2025 03:09:21.843] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1781119 : 768127
+[04Oct2025 03:09:21.925] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1781119 : 768128
+[04Oct2025 03:09:21.967] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1781121 : 768128
+[04Oct2025 03:09:22.041] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1781121 : 768127
+[04Oct2025 03:09:22.104] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1781120 : 768126
+[04Oct2025 03:09:22.139] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1781120 : 768128
+[04Oct2025 03:09:22.170] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1781120 : 768129
+[04Oct2025 03:09:22.202] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1781120 : 768127
+[04Oct2025 03:09:22.207] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 8531328a-cedb-4526-873f-84c2a139602b unwatched ships [536]
+[04Oct2025 03:09:22.207] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: ae6a79d9-941c-42b1-84be-c4b278c88a40 unwatched ships [536]
+[04Oct2025 03:09:22.207] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 7ca5405f-c725-4722-93db-099d077645f1 unwatched ships [536]
+[04Oct2025 03:10:23.880] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo def3
+[04Oct2025 03:10:23.896] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo def3
+[04Oct2025 03:10:35.481] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1781119 : 768127
+[04Oct2025 03:10:35.482] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1781120 : 768127
+[04Oct2025 03:10:35.482] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1781119 : 768128
+[04Oct2025 03:10:35.482] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1781120 : 768126
+[04Oct2025 03:10:35.482] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1781120 : 768128
+[04Oct2025 03:10:35.482] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1781121 : 768127
+[04Oct2025 03:10:35.482] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1781121 : 768128
+[04Oct2025 03:10:35.482] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1781120 : 768129
+[04Oct2025 03:10:35.486] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: ae6a79d9-941c-42b1-84be-c4b278c88a40 watched ships: [536]
+[04Oct2025 03:12:32.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Luiss> kick morange
+[04Oct2025 03:12:49.633] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1781119 : 768127
+[04Oct2025 03:12:49.720] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1781119 : 768128
+[04Oct2025 03:12:49.799] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1781121 : 768128
+[04Oct2025 03:12:49.868] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1781121 : 768127
+[04Oct2025 03:12:49.919] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1781120 : 768126
+[04Oct2025 03:12:49.956] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1781120 : 768128
+[04Oct2025 03:12:49.996] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1781120 : 768129
+[04Oct2025 03:12:50.040] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1781120 : 768127
+[04Oct2025 03:12:50.048] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 8531328a-cedb-4526-873f-84c2a139602b unwatched ships [536]
+[04Oct2025 03:12:50.048] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: ae6a79d9-941c-42b1-84be-c4b278c88a40 unwatched ships [536]
+[04Oct2025 03:12:50.049] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 7ca5405f-c725-4722-93db-099d077645f1 unwatched ships [536]
+[04Oct2025 03:15:23.893] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo def3
+[04Oct2025 03:15:23.910] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo def3
