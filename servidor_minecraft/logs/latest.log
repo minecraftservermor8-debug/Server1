@@ -448,3 +448,6 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [04Oct2025 02:44:21.964] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8592120625E7, 66.20135353114324, 14.077394671738148] -> [-51.906923573464155, 110.17499999701977, 1.2290059625E7] returning empty list! this might break things
 [04Oct2025 02:44:51.514] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lol lost connection: Disconnected
 [04Oct2025 02:44:51.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lol left the game
+[04Oct2025 02:45:35.688] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2115ms or 42 ticks behind
+[04Oct2025 02:46:34.577] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=72, y=28, z=10} BlockPos{x=72, y=26, z=11}
+[04Oct2025 02:50:43.212] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=16, y=15, z=-29} BlockPos{x=16, y=15, z=-28}
